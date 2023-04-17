@@ -1,6 +1,9 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Introdução
+	
+A gestão financeira é um hábito fundamental para o bem-estar econômico de longo prazo, seja ele de um indivíduo, uma família, ou mesmo de um negócio. Entretanto, muitas pessoas enfrentam dificuldades na sua relação com o dinheiro. Um dos principais problemas é a falta de conhecimento e habilidades — principalmente no Brasil, onde disciplinas de educação financeira não são amplamente disseminadas — para gerenciar suas finanças de forma eficaz. Isto, por sua vez, pode levar a decisões econômico-financeiras prejudiciais, como gastar mais do que recebe, contração excessiva de dívidas e descontrole das economias para o futuro. Além disso, a falta de organização e acompanhamento de gastos pode tornar difícil a identificação de onde o dinheiro está sendo empregado e onde há oportunidades de economia.
+Assim, a aplicação vem como resposta buscando solucionar de maneira simples e eficaz, a forma como o usuário se relaciona com suas despesas, receitas e investimentos. Além também, de garantir que tenham uma visão clara e realista de como andam suas finanças, permitindo que sejam feitas escolhas melhor informadas na busca por seus objetivos financeiros.
 
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
