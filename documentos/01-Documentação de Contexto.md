@@ -53,4 +53,7 @@ Entre outras funções, a aplicação permitirá, por exemplo, que seus usuário
 
 ## Publico Alvo
 
- Educação financeira é uma forma de conhecimento útil a toda e qualquer sociedade, independente da fase da vida. Entretanto, grande parte das pessoas inicia sua vida financeira e profissional na faixa dos 18 anos de idade, e se aposentam próximo dos 65 anos 
+ Educação financeira é uma forma de conhecimento útil a toda e qualquer sociedade, independente da fase da vida. Entretanto, grande parte das pessoas inicia sua vida financeira e profissional na faixa dos 18 anos de idade, e se aposentam próximo dos 65 anos. Assim, a aplicação tem como público-alvo qualquer pessoa com idade entre 18 e 65 anos, adultos com vida financeira ativa, tanto em construção, quanto em consolidação para a aposentadoria.
+
+
+
