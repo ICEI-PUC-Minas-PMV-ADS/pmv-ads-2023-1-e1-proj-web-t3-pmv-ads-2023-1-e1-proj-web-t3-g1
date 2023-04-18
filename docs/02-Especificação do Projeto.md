@@ -1,10 +1,17 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
+A equipe realizou pesquisas e entrevistas com potenciais usuários da aplicação visando traçar quais problemas o software resolverá. A partir disso, os levantamentos foram compilados na forma de Personas e Histórias de Usuários, conforme apresentado a seguir.
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
+Personas
 
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+BEATRIZ CORDEIRO
+Idade: 49 anos	Principais aplicativos:
+Banking; Streaming; Whatsapp; Instagram; TikTok; YouTube; Twitter.
+Ocupação: Analista Financeiro
+Motivações: Família; Busca por conhecimento..
+	Objetivos: Seguir evoluindo profissionalmente.
+	Hobbies: Leitura; Filmes e Séries; Língua Estrangeira; Viagens;
+
 
 ## Personas
 
