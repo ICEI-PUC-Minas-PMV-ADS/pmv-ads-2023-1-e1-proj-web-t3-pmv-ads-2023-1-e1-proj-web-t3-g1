@@ -1,4 +1,4 @@
-CONTROLA 
+CONTROLA FÁCIL
 
 TECNOLOGIA EM ANALISE E DESENVOLVIMENTO DE SISTEMAS
 
@@ -9,8 +9,7 @@ Em desenvolvimento uma aplicação Web  facilitadora de  gestão financeira pess
 ## Integrantes
 * ARTHUR OLIVEIRA
 *  CARLOS EDUARDO DOS SANTOS LIMA
-*  CÉSAR  AUGUSTO CASTRO  ALVES MARTINS
-*  HENRIQUE GOMES PERES  
+*  CÉSAR  AUGUSTO CASTRO  ALVES MARTINS 
 * LAÍS BARBOSA DE OLIVEIRA
 *  LUCAS EMANUEL PEREIRA  RODRIGUES
 * LUCAS OLIVEIRA SOARES
@@ -19,7 +18,7 @@ Em desenvolvimento uma aplicação Web  facilitadora de  gestão financeira pess
 
 ## Orientador
 NATHALIA ASSIS VALENTIM
-* Nome completo do professor 1
+
 
 ## Instruções de utilização
 
