@@ -30,6 +30,9 @@ Tela de login permite o usuário acessar a aplicação.
 
 
 ###  **Home Page do usuário**
+Homepage permite o usuário a função de fornecer uma visão geral do site, apresentando as informações mais importantes e relevantes para o visitante.
+![homepage](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/131923836/2a23690f-d629-4ebd-abb7-dabc071993e7)
+<sub>*Figura: Tela da homepage*</sub>
 
 ###  **Tela de investimentos**
 
