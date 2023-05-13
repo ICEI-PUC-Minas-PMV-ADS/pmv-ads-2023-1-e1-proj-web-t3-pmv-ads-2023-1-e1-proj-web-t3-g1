@@ -50,13 +50,13 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |`RF-002`| Permitir que o usuário registre suas **despesas esporádicas** (corte de cabelo, jantar em restaurante, passeio no parque de diversões, etc.).  | `ALTA` |
 |`RF-003`| Permitir que o usuário registre suas **despesas com “prazo de validade”** (compras parceladas, financiamentos, etc). | `ALTA` | 
 |`RF-004`| Permitir que o usuário registre uma **meta de gastos** (seja ela semanal, mensal ou anual).   | `ALTA` |
-|`RF-005`| Permitir que o usuário cadastre tarefas | `ALTA` | 
-|`RF-006`| Emitir um relatório de tarefas no mês   | `ALTA` |
-|`RF-007`| Permitir que o usuário cadastre tarefas | `ALTA` | 
-|`RF-008`| Emitir um relatório de tarefas no mês   | `ALTA` |
-|`RF-009`| Permitir que o usuário cadastre tarefas | `ALTA` | 
-|`RF-010`| Emitir um relatório de tarefas no mês   | `MÉDIA` |
-|`RF-011`| Permitir que o usuário cadastre tarefas | `MÉDIA` | 
+|`RF-005`| Permitir que o usuário registre suas **receitas fixas.** (salário, mesada, etc.). | `ALTA` | 
+|`RF-006`| Permitir que o usuário registre suas **receitas esporádicas** (dividendos, rendimentos, participação nos lucros, etc.).   | `ALTA` |
+|`RF-007`| Permitir que o usuário registre suas **receitas com “prazo de validade”** (vendas parceladas, etc.). | `ALTA` | 
+|`RF-008`| Permitir que o usuário registre seus **investimentos** (Títulos de renda fixa, títulos de renda variável, etc.).   | `ALTA` |
+|`RF-009`| Permitir que o usuário faça um **cadastro com login e senha**. | `ALTA` | 
+|`RF-010`| Permitir que o usuário registre **despesas imprevistas** (veterinário, hospital, medicamentos, etc.).   | `MÉDIA` |
+|`RF-011`| Permitir que o usuário especifique em seu cadastro qual o **motivo** pelo qual ele está utilizando a aplicação. (gerenciamento financeiro, dívidas, controle de investimentos, etc.). | `MÉDIA` | 
 |`RF-012`| Emitir um relatório de tarefas no mês   | `MÉDIA` |
 |`RF-013`| Permitir que o usuário cadastre tarefas | `BAIXA` | 
 |`RF-014`| Emitir um relatório de tarefas no mês   | `BAIXA` |
