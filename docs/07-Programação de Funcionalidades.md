@@ -63,7 +63,9 @@ Requisitos atendidos:
 
 ![estruralogin](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/127629619/41e1872b-acb8-4ee4-ba52-98d32591ef6d)
 
-Instruções de acesso
+**Instruções de acesso**
+
+1.Abra um navegador de internet e insira a seguinte URL: https://lais7oliveira.github.io/Controla-facil-lais/index.html
 
 
 ### Home Page do usuário (RF-18)
