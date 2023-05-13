@@ -67,16 +67,22 @@ Instruções de acesso
 
 
 ### Home Page do usuário (RF-18)
+ A home Page permite o usuário ter acesso as outras funcionalidades, além de uma visão geral do site.
+ 
+![Captura de tela 2023-05-13 104947](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/131923836/ff571ea3-2f76-4817-a410-89f898d8ad75)
 
-Descrição + Foto
+<sub>*Figura - Tela da home page* </sub>
 
 Requisitos atendidos:
 - RF-18: Concentrar informações de forma simples ao usuário.
 
 **Artefatos da funcionalidade:**
-- (nome do arquivo .html)
-- (nome do arquivo .css)
-- (nome do arquivo .js - se houver)
+- homepage.html
+- style-homepage.css
+
+**Estrutura de Dados**
+
+![Captura de tela 2023-05-13 110824](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/131923836/08a2e012-ee39-475c-b073-24ab4965218d)
 
 
 ### Tela de investimentos (RF-08)
