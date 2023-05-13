@@ -101,8 +101,8 @@ Requisitos atendidos:
 - RF-10: Permitir que o usuário registre despesas imprevistas (veterinário, hospital, medicamentos, etc.).
 
 **Artefatos da funcionalidade:**
-(nome do arquivo .html)
-(nome do arquivo .css)
-(nome do arquivo .js - se houver)
+- (nome do arquivo .html)
+- (nome do arquivo .css)
+- (nome do arquivo .js - se houver)
 
 
