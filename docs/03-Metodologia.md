@@ -32,6 +32,7 @@ O projeto segue a seguinte convenção para o nome de branches:
 - `testing`: versão em testes do software.
 - `dev`: versão de desenvolvimento do software.
 
+
 ### Divisão de Papéis
 
 A equipe de desenvolvimento deste projeto está organizada conforme as funções a seguir:
@@ -45,20 +46,20 @@ A equipe de desenvolvimento deste projeto está organizada conforme as funções
 - Equipe de Design: *Carlos Eduardo*
 
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
- 
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+A equipe optou pela ferramenta “Trello” para a gestão das tarefas e processos da equipe conforme a seguinte estruturação:
+
+`Backlog`: Recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista.
+`Fixing`: Requisitos com problemas e  precisam de reparo.
+`In progress`: Quando uma tarefa for iniciada, ela é transferida para esta coluna.
+`Test`: Checagem de qualidade. Ao certificar que a tarefa foi finalizada e está em teste, será transferida para esta coluna.
+`Done`: Nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para serem entregues ao usuário. Não há mais edições ou revisões necessárias.
+`Deployed`: Requisitos funcionais prontos e já inseridos na branch de produção (main).
+
+![Trello_Flow](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/122227953/89b0ab80-58c0-4317-aa7f-04b10f0b7c44)
+*Figura 02 - Tela do quadro de distribuição e organização de tarefas no Trello.
+
 
 ### Ferramentas
 
