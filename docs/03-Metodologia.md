@@ -16,44 +16,34 @@ As plataformas utilizadas para o desenvolvimento de artefatos da aplicação for
 | Gerenciamento do Projeto | Trello | https://trello.com/b/oDauB2nJ/grupo1ads-controla-f%C3%A1cil |
 | Comunicação e Reuniões | Discord | https://discord.gg/r3ZXk8fN |
 
-
+## Gerenciamento de Projeto
 
 ## Controle de Versão
 
 Para a gestão do código fonte será utilizado o modelo de processo baseado no Git Flow, como mostrado na figura a seguir:
 
 ![git_Flow](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/122227953/2279f321-06f3-47ce-879c-75d74170cbc1)
-
+*Figura 01: Fluxo de controle do código fonte: GitFlow.*
 
 O projeto segue a seguinte convenção para o nome de branches:
 
-- `main`: versão estável já testada do software
-- `unstable`: versão já testada do software, porém instável
-- `testing`: versão em testes do software
-- `dev`: versão de desenvolvimento do software
-
-Quanto à gerência de issues, o projeto adota a seguinte convenção para
-etiquetas:
-
-- `documentation`: melhorias ou acréscimos à documentação
-- `bug`: uma funcionalidade encontra-se com problemas
-- `enhancement`: uma funcionalidade precisa ser melhorada
-- `feature`: uma nova funcionalidade precisa ser introduzida
-
-Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
-
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
->  - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
-> - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-> - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
-
-## Gerenciamento de Projeto
+- `main`: versão estável já testada do software.
+- `feature`: versão para desenvolvimento de novas funcionalidades.
+- `testing`: versão em testes do software.
+- `dev`: versão de desenvolvimento do software.
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
+A equipe de desenvolvimento deste projeto está organizada conforme as funções a seguir:
+- Scrum Master: Laís Barbosa
+- Product Owner: Henrique Gomes
+- Equipe de Desenvolvimento: 
+   Arthur Santos
+   César Augusto
+   Lucas Emanuel
+   Lucas Oliveira
+- Equipe de Design: Carlos Eduardo
+
 
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu 
