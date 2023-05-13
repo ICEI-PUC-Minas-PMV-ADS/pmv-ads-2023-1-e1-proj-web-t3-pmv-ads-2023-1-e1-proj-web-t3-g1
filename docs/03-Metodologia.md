@@ -83,17 +83,17 @@ A equipe optou pela ferramenta “Trello” para a gestão das tarefas e process
 
 ### Ferramentas
 
-As ferramentas empregadas no projeto são:
+A equipe selecionou as seguintes ferramentas para o desenvolvimento da aplicação:
+	
+- Figma (utilizado para a diagramação em tempo real e interação das wireframes)
+- GitHub
+- Discord (utilizado para as reuniões da equipe)
+- Microsoft Teams (utilizado nas aulas e em reuniões com orientadores)
+- Trello (utilizado para a gestão de tarefas da equipe)
+- Git
+- VS Code (integração com Git e GitHub)
+- Canva (utilizado para desenvolver a identidade visual da aplicação)
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
-
-O editor de código foi escolhido porque ele possui uma integração com o
-sistema de versão. As ferramentas de comunicação utilizadas possuem
-integração semelhante e por isso foram selecionadas. Por fim, para criar
-diagramas utilizamos essa ferramenta por melhor captar as
-necessidades da nossa solução.
 
 Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
  
