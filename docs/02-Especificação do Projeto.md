@@ -46,30 +46,33 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |-------------------|-----------------------------------------|----|
-|`RF-001`| Permitir que o usuário registre suas **despesas fixas** (aluguel, streaming, seguro, internet, etc.). | `ALTA` | 
-|`RF-002`| Permitir que o usuário registre suas **despesas esporádicas** (corte de cabelo, jantar em restaurante, passeio no parque de diversões, etc.).  | `ALTA` |
-|`RF-003`| Permitir que o usuário registre suas **despesas com “prazo de validade”** (compras parceladas, financiamentos, etc). | `ALTA` | 
-|`RF-004`| Permitir que o usuário registre uma **meta de gastos** (seja ela semanal, mensal ou anual).   | `ALTA` |
-|`RF-005`| Permitir que o usuário registre suas **receitas fixas.** (salário, mesada, etc.). | `ALTA` | 
-|`RF-006`| Permitir que o usuário registre suas **receitas esporádicas** (dividendos, rendimentos, participação nos lucros, etc.).   | `ALTA` |
-|`RF-007`| Permitir que o usuário registre suas **receitas com “prazo de validade”** (vendas parceladas, etc.). | `ALTA` | 
-|`RF-008`| Permitir que o usuário registre seus **investimentos** (Títulos de renda fixa, títulos de renda variável, etc.).   | `ALTA` |
-|`RF-009`| Permitir que o usuário faça um **cadastro com login e senha**. | `ALTA` | 
-|`RF-010`| Permitir que o usuário registre **despesas imprevistas** (veterinário, hospital, medicamentos, etc.).   | `MÉDIA` |
-|`RF-011`| Permitir que o usuário especifique em seu cadastro qual o **motivo** pelo qual ele está utilizando a aplicação. (gerenciamento financeiro, dívidas, controle de investimentos, etc.). | `MÉDIA` | 
-|`RF-012`| Exibir **notificações (pop-ups)** com dicas para uma vida financeira mais saudável.   | `MÉDIA` |
-|`RF-013`| Permitir que o usuário opte pelo **“DarkMode”** | `BAIXA` | 
-|`RF-014`| Permitir que a página de registros seja **customizável** conforme as necessidades do usuário.   | `BAIXA` |
-|`RF-015`| Exibir **notificações** nos aparelhos móveis. | `BAIXA` | 
-|`RF-016`| Permitir que o usuário faça a **importação do seu extrato na extensão .csv**   | `BAIXA` |
+|`RF-01`| Permitir que o usuário registre suas **despesas fixas** (aluguel, streaming, seguro, internet, etc.). | `ALTA` | 
+|`RF-02`| Permitir que o usuário registre suas **despesas esporádicas** (corte de cabelo, jantar em restaurante, passeio no parque de diversões, etc.).  | `ALTA` |
+|`RF-03`| Permitir que o usuário registre suas **despesas com “prazo de validade”** (compras parceladas, financiamentos, etc). | `ALTA` | 
+|`RF-04`| Permitir que o usuário registre uma **meta de gastos** (seja ela semanal, mensal ou anual).   | `ALTA` |
+|`RF-05`| Permitir que o usuário registre suas **receitas fixas.** (salário, mesada, etc.). | `ALTA` | 
+|`RF-06`| Permitir que o usuário registre suas **receitas esporádicas** (dividendos, rendimentos, participação nos lucros, etc.).   | `ALTA` |
+|`RF-07`| Permitir que o usuário registre suas **receitas com “prazo de validade”** (vendas parceladas, etc.). | `ALTA` | 
+|`RF-08`| Permitir que o usuário registre seus **investimentos** (Títulos de renda fixa, títulos de renda variável, etc.).   | `ALTA` |
+|`RF-09`| Permitir que o usuário faça um **cadastro com login e senha**. | `ALTA` | 
+|`RF-10`| Permitir que o usuário registre **despesas imprevistas** (veterinário, hospital, medicamentos, etc.).   | `MÉDIA` |
+|`RF-11`| Permitir que o usuário especifique em seu cadastro qual o **motivo** pelo qual ele está utilizando a aplicação. (gerenciamento financeiro, dívidas, controle de investimentos, etc.). | `MÉDIA` | 
+|`RF-12`| Exibir **notificações (pop-ups)** com dicas para uma vida financeira mais saudável.   | `MÉDIA` |
+|`RF-13`| Permitir que o usuário opte pelo **“DarkMode”** | `BAIXA` | 
+|`RF-14`| Permitir que a página de registros seja **customizável** conforme as necessidades do usuário.   | `BAIXA` |
+|`RF-15`| Exibir **notificações** nos aparelhos móveis. | `BAIXA` | 
+|`RF-16`| Permitir que o usuário faça a **importação do seu extrato na extensão .csv**   | `BAIXA` |
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|`RNF-01`| A aplicação deve manter o padrão de desempenho mínimo — definido pela equipe — em qualquer sistema de acesso: Browser, Smartphone ou Tablet.| `MÉDIA` |
+|`RNF-02`| O sistema deve permanecer disponível X% do tempo, a fim de que esteja disponível sempre que o usuário necessitar. | `MÉDIA` | 
+|`RNF-03`| O sistema deve ser acessível e de fácil usabilidade pelo usuário. | `BAIXA` | 
+|`RNF-04`| O sistema deve ser responsivo em qualquer sistema de acesso: Browser, Smartphone ou Tablet | `ALTA` | 
+|`RNF-05`| O sistema deve ser de fácil manutenibilidade | `MÉDIA` | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
