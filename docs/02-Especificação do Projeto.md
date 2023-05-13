@@ -28,14 +28,15 @@ A equipe realizou pesquisas e entrevistas com potenciais usuários da aplicaçã
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------         |----------------------------------------|
-|Usuário do sistema  | Cadastrar minhas despesas mensais           | Não esquecer de fazê-las               |
-|Usuário do sistema  | Cadastrar uma compra futura                 | Permitir que possam administrar contas |
-|Usuário do sistema  | Cadastrar meus investimentos                | Não esquecer de fazê-las               |
-|Usuário do sistema  | Cadastrar minhas despesas dinâmicas mensais | Permitir que possam administrar contas |
-|Usuário do sistema  | Registrar minhas tarefas                    | Não esquecer de fazê-las               |
-|Usuário do sistema  | Alterar permissões                          | Permitir que possam administrar contas |
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`                     |PARA ... `MOTIVO/VALOR`                 |
+|--------------------|------------------------------------------------------- |----------------------------------------|
+|Usuário do sistema  | Cadastrar minhas despesas mensais                      | saber quanto devo poupar dos meus rendimentos mensais para que as despesas sejam satisfeitas. |
+|Usuário do sistema  | Cadastrar uma compra futura                            | planejar e saber quanto devo poupar mensalmente. |
+|Usuário do sistema  | Cadastrar meus investimentos                           | entender e acompanhar onde, como e quanto do meu patrimônio está investido. |
+|Usuário do sistema  | Cadastrar minhas despesas dinâmicas mensais            | entender e classificar qual a média das minhas despesas com combustível, por exemplo. |
+|Usuário do sistema  | Cadastrar minha despesas imprevistas                   | prever e planejar possíveis gastos excedentes mensais. |
+|Usuário do sistema  | Receber dicas e lembretes de gerenciamento financeiro  | manter uma vida financeira controlada e saudável. |
+|Usuário do sistema  | Administrar o dinheiro para garantir aposentadoria     | ter a segurança da aposentadoria privada. |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
