@@ -88,6 +88,7 @@ Requisitos atendidos:
 ### Tela de investimentos (RF-08)
 
 Tela que permite ao usuário acompanhar, gerenciar e cadastrar seus investimentos. Além disso, fornece ao usuário um menu de navegação, e na parte inferior, acesso às redes sociais da aplicação.
+Ao cadastrar um novo investimento, um pop-up surge na tela confirmando a ação.
 
 ![Tela de Investimentos](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/122227953/9a2c29aa-1b3b-431d-a9bd-9f8b8201c2f8)
 <sub>*Figura - Tela de investimentos* </sub>
@@ -107,7 +108,7 @@ Requisitos atendidos:
 
 Abra um navegador de Internet e informe a seguinte URL: [https://icei-puc-minas-pmv-ads.github.io/sus_online/views/authorization/](https://eduardocesl.github.io/Controla-Facil-Fork/)
 
-A tela de investimentos é a primeira funcionalidade exibida pelo aplicativo!
+A tela de investimentos é a primeira funcionalidade exibida pelo link!
 
 
 ### Tela de receitas (RF-06, RF-07)
