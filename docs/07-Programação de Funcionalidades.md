@@ -67,7 +67,7 @@ Instruções de acesso
 
 
 ### Home Page do usuário (RF-18)
- A home Page permite o usuário ter acesso as outras funcionalidades, além de uma visão geral do site.
+ A home Page permite o usuário ter acesso às outras funcionalidades, além de uma visão geral do site.
  
 ![Captura de tela 2023-05-13 104947](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/131923836/ff571ea3-2f76-4817-a410-89f898d8ad75)
 
@@ -87,8 +87,7 @@ Requisitos atendidos:
 
 ### Tela de investimentos (RF-08)
 
-Tela que permite ao usuário acompanhar, gerenciar e cadastrar seus investimentos. Além disso, fornece ao usuário um menu de navegação, e na parte inferior, acesso às redes sociais da aplicação.
-Ao cadastrar um novo investimento, um pop-up surge na tela confirmando a ação.
+Tela que permite ao usuário acompanhar, gerenciar e cadastrar seus investimentos. Além disso, conta também com um menu de navegação localizado na parte superior direita. Na seção central-inferior, é possível ter acesso às redes sociais da aplicação. Além disso, ao cadastrar um novo investimento, um pop-up surge na tela confirmando a ação.
 
 <sub> Além de sua função, a tela oferece algumas alternativas ao usuário, visando melhorar sua experiência com a aplicação, como a função *hover* aplicada sobre os itens da seção "Carteira" , também sobre os links de navegação no header e ainda sobre os botões *Finalizar* e *Redefinir* localizados na seção "Cadastrar novo aporte".
 
