@@ -1,12 +1,22 @@
 # Arquitetura da Solução
 
-<span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>
-
-Definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação.
+Nesta seção serão especificados os detalhes técnicos da aplicação, apresentando os componentes e tecnologias utilizadas pela equipe.
 
 ## Diagrama de componentes
 
-Diagrama que permite a modelagem física de um sistema, através da visão dos seus componentes e relacionamentos entre os mesmos.
+O diagrama a seguir (*Figura 09*) mostra a modelagem física do relacionamento entre os componentes da solução.
+
+![arquitetura_solucao](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/122227953/5fd9b7f7-e386-4383-ad81-b8c42ada7dd6)
+
+<sub>*Figura 09 - Arquitetura da solução.*</sub>
+
+A solução implementada conta com os seguintes módulos:
+
+- Navegador - Interface básica do sistema.
+- Páginas Web - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
+- Local Storage - Armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON.
+- Hospedagem - Local na Internet onde as páginas são mantidas e acessadas pelo navegador.
+
 
 Exemplo: 
 
