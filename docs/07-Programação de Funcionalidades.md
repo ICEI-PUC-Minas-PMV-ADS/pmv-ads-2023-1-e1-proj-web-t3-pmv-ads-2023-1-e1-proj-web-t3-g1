@@ -26,7 +26,7 @@ Requisitos atendidos:
 
 Tela que permite ao usuário realizar seu registro na aplicação.
 
-FOTO ![cadartro tela](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/127629619/076f793c-92b4-457a-b503-88617ebb3d58)
+![cadartro tela](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/127629619/076f793c-92b4-457a-b503-88617ebb3d58)
 
 
 Requisitos atendidos: 
@@ -56,7 +56,8 @@ Requisitos atendidos:
 - indexlogin.html
 - StyleL.css
 
-Estrutura de dados
+**Estrutura de dados**
+
 ![estruralogin](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/127629619/41e1872b-acb8-4ee4-ba52-98d32591ef6d)
 
 Instruções de acesso
