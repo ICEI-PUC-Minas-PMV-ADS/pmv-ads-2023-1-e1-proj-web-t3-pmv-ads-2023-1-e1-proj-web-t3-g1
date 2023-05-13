@@ -58,7 +58,7 @@ A equipe optou pela ferramenta “Trello” para a gestão das tarefas e process
 `Deployed`: Requisitos funcionais prontos e já inseridos na branch de produção (main).
 
 ![Trello_Flow](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/122227953/89b0ab80-58c0-4317-aa7f-04b10f0b7c44)
-*Figura 02 - Tela do quadro de distribuição e organização de tarefas no Trello.
+<sub>*Figura 02 - Tela do quadro de distribuição e organização de tarefas no Trello.</sub>
 
 
 ### Ferramentas
