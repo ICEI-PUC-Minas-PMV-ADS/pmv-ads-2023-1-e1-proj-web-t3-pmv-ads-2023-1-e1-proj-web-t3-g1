@@ -26,29 +26,41 @@ Requisitos atendidos:
 
 Tela que permite ao usuário realizar seu registro na aplicação.
 
--> FOTO <-
+-> FOTO ![cadartro tela](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/127629619/076f793c-92b4-457a-b503-88617ebb3d58)
+<-
 
 Requisitos atendidos: 
 - RF-09: Permitir que o usuário faça um cadastro com login e senha.
 
 **Artefatos da funcionalidade:**
-- (nome do arquivo .html)
-- (nome do arquivo .css)
-- (nome do arquivo .js - se houver)
+- indexcadastro.html
+- StyleL.css
+
+Estrutura de dados
+
+![estruturacadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/127629619/4d30083f-b6a0-48b5-85d4-82befe709323)
+
+Instruções de acesso
 
 ### Tela de Login (RF–09)
 
 Tela que permite ao usuário realizar o login ou o registro na aplicação, sendo assim cada persona na aplicação poderá acessar rotas e funcionalidades diferentes.
 
--> FOTO <-
+-> FOTO![telalogin](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/127629619/acebb44f-0234-450a-adae-8aade45c0e61)
+ <-
 
 Requisitos atendidos: 
 - RF-09: Permitir que o usuário faça um cadastro com login e senha.
 
 **Artefatos da funcionalidade:**
-- (nome do arquivo .html)
-- (nome do arquivo .css)
-- (nome do arquivo .js - se houver)
+- indexlogin.html
+- StyleL.css
+
+Estrutura de dados
+![estruralogin](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/127629619/41e1872b-acb8-4ee4-ba52-98d32591ef6d)
+
+Instruções de acesso
+
 
 ### Home Page do usuário (RF-18)
 
