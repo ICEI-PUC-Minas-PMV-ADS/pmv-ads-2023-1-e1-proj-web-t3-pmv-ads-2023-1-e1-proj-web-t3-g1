@@ -56,7 +56,7 @@ A equipe de desenvolvimento deste projeto está organizada conforme as funções
   
 - Equipe de Design: 
 
-- *Carlos Eduardo*
+ *Carlos Eduardo*
 
 
 ### Processo
