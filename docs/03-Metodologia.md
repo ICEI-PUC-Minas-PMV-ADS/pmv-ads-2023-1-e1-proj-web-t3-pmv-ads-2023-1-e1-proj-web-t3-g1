@@ -20,9 +20,10 @@ As plataformas utilizadas para o desenvolvimento de artefatos da aplicação for
 
 ## Controle de Versão
 
-A ferramenta de controle de versão adotada no projeto foi o
-[Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-foi utilizado para hospedagem do repositório.
+Para a gestão do código fonte será utilizado o modelo de processo baseado no Git Flow, como mostrado na figura a seguir:
+
+![git_Flow](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/122227953/2279f321-06f3-47ce-879c-75d74170cbc1)
+
 
 O projeto segue a seguinte convenção para o nome de branches:
 
