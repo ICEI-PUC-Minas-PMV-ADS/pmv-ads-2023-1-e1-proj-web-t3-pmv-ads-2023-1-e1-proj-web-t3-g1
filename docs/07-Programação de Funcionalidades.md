@@ -107,7 +107,7 @@ Requisitos atendidos:
 
 **Instruções de acesso**
 
-Abra um navegador de Internet e informe a seguinte URL: [https://icei-puc-minas-pmv-ads.github.io/sus_online/views/authorization/](https://eduardocesl.github.io/Controla-Facil-Fork/)
+Abra um navegador de Internet e informe a seguinte URL:(https://eduardocesl.github.io/Controla-Facil-Fork/)
 
 A tela de investimentos é a primeira funcionalidade exibida pelo link!
 
