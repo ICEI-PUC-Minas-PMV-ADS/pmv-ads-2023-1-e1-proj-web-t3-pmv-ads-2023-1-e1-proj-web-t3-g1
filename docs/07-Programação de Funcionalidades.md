@@ -27,7 +27,7 @@ Requisitos atendidos:
 Tela que permite ao usuário realizar seu registro na aplicação.
 
 ![cadartro tela](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/127629619/076f793c-92b4-457a-b503-88617ebb3d58)
-
+*Figura Tela de cadastro*
 
 Requisitos atendidos: 
 - RF-09: Permitir que o usuário faça um cadastro com login e senha.
