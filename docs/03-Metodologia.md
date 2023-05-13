@@ -54,8 +54,7 @@ A equipe de desenvolvimento deste projeto está organizada conforme as funções
   
 *Lucas Oliveira.*
   
-- Equipe de Design: 
-
+**Equipe de Design:**
 *Carlos Eduardo*
 
 
