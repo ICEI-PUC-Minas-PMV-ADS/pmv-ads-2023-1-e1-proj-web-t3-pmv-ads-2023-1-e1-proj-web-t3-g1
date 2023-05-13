@@ -17,6 +17,12 @@ Personas
 | Ocupação: `Suporte` `Estudante de SI` | Motivações: Amigos; Tecnologia. | Objetivos: Trabalhar como gestor em tecnologia (gestão de pessoal). |
 |     |	Hobbies: Games online; Filmes e Séries. |
 
+|LUCIANO MOTTA  |     |
+| ----------------- | --- |
+| Idade: 30 anos    |	Principais aplicativos: Streaming; Whatsapp; Instagram; YouTube. |
+| Ocupação: `Bombeiro Militar` | Motivações: Atividades Físicas; Família. | Objetivos: Ter controle sobre o próprio tempo. |
+|     |	Hobbies: Crossfit; Filmes e Séries; Viagens. |
+
 
 ## Personas
 
