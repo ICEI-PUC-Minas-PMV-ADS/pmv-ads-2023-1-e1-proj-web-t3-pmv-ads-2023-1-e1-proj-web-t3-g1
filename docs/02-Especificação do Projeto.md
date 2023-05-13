@@ -14,7 +14,7 @@ Personas
 | LEONARDO MACEDO  | --- |
 | ----------------- | --- |
 | Idade: 21 anos    |	Principais aplicativos: Streaming; Whatsapp; Instagram; Telegram; YouTube; Twitter; Discord. |
-| Ocupação: `Assistente de Suporte` `Estudante de SI` | Motivações: Amigos; Tecnologia. | Objetivos: Trabalhar como gestor em tecnologia (gestão de pessoal). |
+| Ocupação: `Suporte` `Estudante de SI` | Motivações: Amigos; Tecnologia. | Objetivos: Trabalhar como gestor em tecnologia (gestão de pessoal). |
 | --- |	Hobbies: Games online; Filmes e Séries. |
 
 
