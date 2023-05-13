@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="/img/logo_grafico.ico" type="image/x-icon">
+    <title>Cadastro de despesas</title>
+    <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+
+    <div class="container">
+
+        <header>
+            <nav id="menu-h">
+                <img id="logo" src="/img/logo.ico" alt="JobFinder">
+        
+                <a href="http://127.0.0.1:5500/index.html">Home</a>
+                <a href="#" id="receitas">Receitas</a>
+                <a href="#">Investimentos</a>
+                
+            </nav>
+
+        </header>
+
+        <main>
+            <div class="form_box">
+
+                <h3 class="title">CADASTRO DE DESPESAS</h3>
+
+                <form action="" method="get">
+
+                    <label for="ldate">Tipo</label>
+                    <select id="tipo" name="tipo">
+                        <option value="#">-</option>
+                        <option value="Fixa">Fixa</option>
+                        <option value="Variavel">Variável</option>
+                        <option value="Outras">Outras despesas</option>
+                    </select>
+
+                    <label for="ldate">Valor (R$)</label>
+                    <input type="number" name="valor">
+
+                    <label for="ldate">Data da despesa</label>
+                    <input type="date" name="data"/>
+
+                    <label for="ldate">Data final de pagamento</label>
+                    <input type="date" name="data" >
+
+                    <label for="ldate">Descrição</label>
+                    <textarea name="message"></textarea>
+
+                    <button type="submit">Cadastrar</button>
+
+                </form>
+            </div>
+
+            <div class="div_box">
+
+                <h3 class="title">EXTRATO</h3>
+
+                <table>
+                    <tr>
+                        <th>Tipo</th>
+                        <th>Início</th>
+                        <th>Fim</th>
+                        <th>Valor</th>
+                        <th>Descrição</th>
+                    </tr>
+                    <tr>
+                        <td>Fixa</td>
+                        <td>05/05/2023</td>
+                        <td>05/06/2023</td>
+                        <td>800,00</td>
+                        <td>Aluguel apartamento</td>
+                    </tr>
+                    <tr>
+                        <td>Variável</td>
+                        <td>09/05/2023</td>
+                        <td>-</td>
+                        <td>200,00</td>
+                        <td>Roupas</td>
+                    </tr>
+                    <tr>
+                        <td>Outras despesas</td>
+                        <td>10/05/2023</td>
+                        <td>15/05/2023</td>
+                        <td>500,00</td>
+                        <td>Despesas diversas</td>
+                    </tr>
+                    <tr>
+                        <td>Fixa</td>
+                        <td>05/05/2023</td>
+                        <td>05/06/2023</td>
+                        <td>800,00</td>
+                        <td>Aluguel apartamento</td>
+                    </tr>
+                    <tr>
+                        <td>Variável</td>
+                        <td>09/05/2023</td>
+                        <td>-</td>
+                        <td>200,00</td>
+                        <td>Roupas</td>
+                    </tr>
+                    <tr>
+                        <td>Outras despesas</td>
+                        <td>10/05/2023</td>
+                        <td>15/05/2023</td>
+                        <td>500,00</td>
+                        <td>Despesas diversas</td>
+                    </tr>
+                </table>
+
+                <h4>Total: R$1.500,00 </h4>
+                
+            </div>
+        </main>
+
+        <footer>
+            <p>
+                PROJETO PUC MINAS<br>
+                Análise e Desenvolvimento de Sistemas<br>
+            </p>    
+            <p>Autor | Lucas Soares</p>
+        </footer>
+            
+    </div>
+
+</body>
+</html>
