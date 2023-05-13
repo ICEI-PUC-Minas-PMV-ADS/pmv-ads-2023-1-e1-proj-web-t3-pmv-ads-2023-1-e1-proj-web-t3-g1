@@ -1,4 +1,4 @@
-# Template padrão do site
+# Template do site
 
 A aplicação *Controla Fácil* adotou o seguinte template padrão:
 
