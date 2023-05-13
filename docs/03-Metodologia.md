@@ -5,6 +5,8 @@
 
 A equipe de desenvolvimento traçou algumas diretrizes contemplando as capacidades e potencialidades de cada integrante, conforme apresentado nos tópicos a seguir.
 
+## Relação de Ambientes de Trabalho
+
 ## Controle de Versão
 
 A ferramenta de controle de versão adotada no projeto foi o
