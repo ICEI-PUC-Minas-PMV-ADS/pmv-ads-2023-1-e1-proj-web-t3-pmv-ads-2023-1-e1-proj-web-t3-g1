@@ -12,7 +12,7 @@ Nesta seção são apresentadas as telas desenvolvidas para cada uma das funcion
 
 
 ### Landing Page (RF-17)
-Descrição
+Descrição + Foto
 
 Requisitos atendidos:
 - RF-17: Permitir que o usuário conheça a plataforma.
@@ -20,6 +20,8 @@ Requisitos atendidos:
 ### Tela de Cadastro (RF–09)
 
 Tela que permite ao usuário realizar seu registro na aplicação.
+
+-> FOTO <-
 
 Requisitos atendidos: 
 - RF-09: Permitir que o usuário faça um cadastro com login e senha.
