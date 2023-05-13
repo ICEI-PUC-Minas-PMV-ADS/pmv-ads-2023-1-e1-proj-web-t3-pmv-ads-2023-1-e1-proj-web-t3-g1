@@ -38,15 +38,13 @@ O projeto segue a seguinte convenção para o nome de branches:
 A equipe de desenvolvimento deste projeto está organizada conforme as funções a seguir:
 
 
-- Scrum Master: 
-
+**Scrum Master:**
 *Laís Barbosa*
 
-- Product Owner: 
-
+**Product Owner:**
 *Henrique Gomes*
 
-- Equipe de Desenvolvimento:
+**Equipe de Desenvolvimento:**
  
 *Arthur Santos;*
   
