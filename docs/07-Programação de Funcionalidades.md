@@ -50,7 +50,7 @@ Requisitos atendidos:
 - (nome do arquivo .css)
 - (nome do arquivo .js - se houver)
 
-### Home Page do usuário; (RF-18)
+### Home Page do usuário (RF-18)
 
 Descrição + Foto
 
@@ -63,7 +63,7 @@ Requisitos atendidos:
 - (nome do arquivo .js - se houver)
 
 
-### Tela de investimentos;  (RF-08)
+### Tela de investimentos (RF-08)
 
 Tela que permite ao usuário acompanhar, gerenciar e cadastrar seus investimentos. Além disso, fornece ao usuário um menu de navegação, e na parte inferior, acesso às redes sociais da aplicação.
 
@@ -77,7 +77,7 @@ Requisitos atendidos:
 - investimentos.html
 - style.css
 
-### Tela de receitas; (RF-06, RF-07)
+### Tela de receitas (RF-06, RF-07)
 
 Descrição + Foto
 
@@ -90,7 +90,7 @@ Requisitos atendidos:
 - (nome do arquivo .css)
 - (nome do arquivo .js - se houver)
 
-### Tela de despesas; (RF-02, RF-03, RF-04, RF-10)
+### Tela de despesas (RF-02, RF-03, RF-04, RF-10)
 
 Descrição + Foto
 
