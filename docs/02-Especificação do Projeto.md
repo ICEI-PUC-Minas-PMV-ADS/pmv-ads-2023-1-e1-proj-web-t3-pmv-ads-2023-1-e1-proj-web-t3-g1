@@ -57,11 +57,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |`RF-009`| Permitir que o usuário faça um **cadastro com login e senha**. | `ALTA` | 
 |`RF-010`| Permitir que o usuário registre **despesas imprevistas** (veterinário, hospital, medicamentos, etc.).   | `MÉDIA` |
 |`RF-011`| Permitir que o usuário especifique em seu cadastro qual o **motivo** pelo qual ele está utilizando a aplicação. (gerenciamento financeiro, dívidas, controle de investimentos, etc.). | `MÉDIA` | 
-|`RF-012`| Emitir um relatório de tarefas no mês   | `MÉDIA` |
-|`RF-013`| Permitir que o usuário cadastre tarefas | `BAIXA` | 
-|`RF-014`| Emitir um relatório de tarefas no mês   | `BAIXA` |
-|`RF-015`| Permitir que o usuário cadastre tarefas | `BAIXA` | 
-|`RF-016`| Emitir um relatório de tarefas no mês   | `BAIXA` |
+|`RF-012`| Exibir **notificações (pop-ups)** com dicas para uma vida financeira mais saudável.   | `MÉDIA` |
+|`RF-013`| Permitir que o usuário opte pelo **“DarkMode”** | `BAIXA` | 
+|`RF-014`| Permitir que a página de registros seja **customizável** conforme as necessidades do usuário.   | `BAIXA` |
+|`RF-015`| Exibir **notificações** nos aparelhos móveis. | `BAIXA` | 
+|`RF-016`| Permitir que o usuário faça a **importação do seu extrato na extensão .csv**   | `BAIXA` |
 
 
 ### Requisitos não Funcionais
