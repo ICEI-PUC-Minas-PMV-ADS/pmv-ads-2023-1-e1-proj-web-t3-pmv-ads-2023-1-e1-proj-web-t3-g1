@@ -24,7 +24,7 @@ Requisitos atendidos:
 
 ### Tela de Cadastro (RF–09)
 
-Tela que permite ao usuário realizar seu registro na aplicação.O usuário é direcionado a tela de login ao se cadastrar.
+Tela que permite ao usuário realizar seu registro na aplicação. Ao clicar no botão Cadastrar, o usuário é direcionado para tela de login.
 
 ![cadartro tela](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/127629619/076f793c-92b4-457a-b503-88617ebb3d58)
 
@@ -37,18 +37,22 @@ Requisitos atendidos:
 - indexcadastro.html
 - StyleL.css
 
-Estrutura de dados
+**Estrutura de dados**
 
 ![estruturacadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/127629619/4d30083f-b6a0-48b5-85d4-82befe709323)
 
 
 **Instruções de acesso**
+
 1.Abra um navegador de internet e insira a seguinte URL: https://lais7oliveira.github.io/Controla-facil-lais/index.html
+
 2.A tela de cadastro é a primeira funcionalidade exibida pelo link!
 
 ### Tela de Login (RF–09)
 
-Tela que permite ao usuário realizar o login ou o registro na aplicação. Ao clicar no botão ENTRAR o usuário é direcionado para a Tela de invertimentos. Ao clicar no botão CADASTRAR o usuário é encaminhado para a tela de cadastro.
+Tela que permite ao usuário realizar o login ou o registro na aplicação. 
+
+Ao clicar no botão ENTRAR o usuário é direcionado para a Tela de invertimentos. Ao clicar no botão CADASTRAR o usuário é encaminhado para a tela de cadastro.
 
 ![telalogin](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/127629619/acebb44f-0234-450a-adae-8aade45c0e61)
  
@@ -68,6 +72,7 @@ Requisitos atendidos:
 **Instruções de acesso**
 
 1.Abra um navegador de internet e insira a seguinte URL: https://lais7oliveira.github.io/Controla-facil-lais/indexlogin.html
+
 2.A tela de login é a primeira funcionalidade exibida pelo link!
 
 
