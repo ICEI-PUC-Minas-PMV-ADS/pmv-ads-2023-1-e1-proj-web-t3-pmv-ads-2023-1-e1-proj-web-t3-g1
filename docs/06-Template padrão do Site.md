@@ -19,8 +19,10 @@ O template desenvolvido está disponível no site GitHub e é composto pelos seg
 ### **Landing Page**
 Tela de cadastro permite o usuário cadastrar seus dados para acessar o Login.
 
-###  **Tela de cadastro do usuário*![cadartro tela](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/127629619/2c6946e4-b113-450f-a461-f0e3a47dfde8)
-*Figura: Tela de cadastro
+###  **Tela de cadastro do usuário**
+
+![cadartro tela](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/127629619/2c6946e4-b113-450f-a461-f0e3a47dfde8)
+<sub>*Figura: Tela de cadastro*</sub>
 
 ###  **Tela de login**
 
