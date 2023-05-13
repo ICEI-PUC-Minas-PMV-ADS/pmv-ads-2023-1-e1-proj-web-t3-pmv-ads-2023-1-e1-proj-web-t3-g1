@@ -18,8 +18,6 @@ O template desenvolvido está disponível no site GitHub e é composto pelos seg
 
 ### **Landing Page**
 
-INSERIR LANDING PAGE AQUI
-
 ###  **Tela de cadastro do usuário**
 
 ###  **Tela de login**
