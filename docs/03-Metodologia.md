@@ -23,6 +23,8 @@ As plataformas utilizadas para o desenvolvimento de artefatos da aplicação for
 Para a gestão do código fonte será utilizado o modelo de processo baseado no Git Flow, como mostrado na figura a seguir:
 
 ![git_Flow](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/122227953/2279f321-06f3-47ce-879c-75d74170cbc1)
+
+
 <sub>*Figura 01: Fluxo de controle do código fonte: GitFlow.*</sub>
 
 O projeto segue a seguinte convenção para o nome de branches:
@@ -70,7 +72,7 @@ A equipe optou pela ferramenta “Trello” para a gestão das tarefas e process
 `Deployed`: Requisitos funcionais prontos e já inseridos na branch de produção (main).
 
 ![Trello_Flow](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/122227953/89b0ab80-58c0-4317-aa7f-04b10f0b7c44)
-<sub>*Figura 02 - Tela do quadro de distribuição e organização de tarefas no Trello.</sub>
+<sub>*Figura 02 - Tela do quadro de distribuição e organização de tarefas no Trello.*</sub>
 
 
 ### Ferramentas
