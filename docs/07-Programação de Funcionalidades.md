@@ -18,9 +18,9 @@ Requisitos atendidos:
 - RF-17: Permitir que o usuário conheça a plataforma.
 
 **Artefatos da funcionalidade:**
-(nome do arquivo .html)
-(nome do arquivo .css)
-(nome do arquivo .js - se houver)
+- (nome do arquivo .html)
+- (nome do arquivo .css)
+- (nome do arquivo .js - se houver)
 
 ### Tela de Cadastro (RF–09)
 
@@ -32,9 +32,9 @@ Requisitos atendidos:
 - RF-09: Permitir que o usuário faça um cadastro com login e senha.
 
 **Artefatos da funcionalidade:**
-(nome do arquivo .html)
-(nome do arquivo .css)
-(nome do arquivo .js - se houver)
+- (nome do arquivo .html)
+- (nome do arquivo .css)
+- (nome do arquivo .js - se houver)
 
 ### Tela de Login (RF–09)
 
@@ -46,9 +46,9 @@ Requisitos atendidos:
 - RF-09: Permitir que o usuário faça um cadastro com login e senha.
 
 **Artefatos da funcionalidade:**
-(nome do arquivo .html)
-(nome do arquivo .css)
-(nome do arquivo .js - se houver)
+- (nome do arquivo .html)
+- (nome do arquivo .css)
+- (nome do arquivo .js - se houver)
 
 ### Home Page do usuário; (RF-18)
 
@@ -58,9 +58,9 @@ Requisitos atendidos:
 - RF-18: Concentrar informações de forma simples ao usuário.
 
 **Artefatos da funcionalidade:**
-(nome do arquivo .html)
-(nome do arquivo .css)
-(nome do arquivo .js - se houver)
+- (nome do arquivo .html)
+- (nome do arquivo .css)
+- (nome do arquivo .js - se houver)
 
 
 ### Tela de investimentos;  (RF-08)
@@ -86,12 +86,11 @@ Requisitos atendidos:
 - RF-07: Permitir que o usuário registre suas receitas com “prazo de validade” (vendas parceladas, etc.).
 
 **Artefatos da funcionalidade:**
-(nome do arquivo .html)
-(nome do arquivo .css)
-(nome do arquivo .js - se houver)
+- (nome do arquivo .html)
+- (nome do arquivo .css)
+- (nome do arquivo .js - se houver)
 
 ### Tela de despesas; (RF-02, RF-03, RF-04, RF-10)
-
 
 Descrição + Foto
 
