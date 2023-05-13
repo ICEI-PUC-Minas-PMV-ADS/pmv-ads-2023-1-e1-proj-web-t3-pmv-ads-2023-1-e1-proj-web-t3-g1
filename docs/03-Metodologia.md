@@ -65,11 +65,17 @@ A equipe de desenvolvimento deste projeto está organizada conforme as funções
 A equipe optou pela ferramenta “Trello” para a gestão das tarefas e processos da equipe conforme a seguinte estruturação:
 
 `Backlog`: Recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista.
+
 `Fixing`: Requisitos com problemas e  precisam de reparo.
+
 `In progress`: Quando uma tarefa for iniciada, ela é transferida para esta coluna.
+
 `Test`: Checagem de qualidade. Ao certificar que a tarefa foi finalizada e está em teste, será transferida para esta coluna.
+
 `Done`: Nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para serem entregues ao usuário. Não há mais edições ou revisões necessárias.
+
 `Deployed`: Requisitos funcionais prontos e já inseridos na branch de produção (main).
+
 
 ![Trello_Flow](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/122227953/89b0ab80-58c0-4317-aa7f-04b10f0b7c44)
 <sub>*Figura 02 - Tela do quadro de distribuição e organização de tarefas no Trello.*</sub>
