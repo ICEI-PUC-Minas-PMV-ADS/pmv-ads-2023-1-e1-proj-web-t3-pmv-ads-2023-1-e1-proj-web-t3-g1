@@ -103,6 +103,11 @@ Requisitos atendidos:
 
 ![Estrutura de dados](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/122227953/53d6d6da-f8d9-4522-b736-7c26e391c5fa)
 
+**Instruções de acesso**
+
+Abra um navegador de Internet e informe a seguinte URL: [https://icei-puc-minas-pmv-ads.github.io/sus_online/views/authorization/](https://eduardocesl.github.io/Controla-Facil-Fork/)
+A tela de investimentos é a primeira funcionalidade exibida pelo aplicativo!
+
 
 ### Tela de receitas (RF-06, RF-07)
 
