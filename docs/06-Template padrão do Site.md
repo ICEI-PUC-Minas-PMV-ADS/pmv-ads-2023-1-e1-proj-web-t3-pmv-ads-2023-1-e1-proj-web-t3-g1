@@ -16,9 +16,23 @@ O template desenvolvido está disponível no site GitHub e é composto pelos seg
 6. Tela de receitas;
 7. Tela de despesas;
 
-### ***Landing Page***
+### **Landing Page**
 
 INSERIR LANDING PAGE AQUI
 
+###  **Tela de cadastro do usuário**
 
-2. 
+###  **Tela de login**
+
+###  **Home Page do usuário**
+
+###  **Tela de investimentos**
+
+Tela que permite ao usuário fazer cadastro, acompanhamento e gestão de seus investimentos.
+
+![Tela de Investimentos](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/122227953/5a07ea4a-e459-4dd6-9d02-91697ea97244)
+
+
+###  **Tela de receitas**
+
+###  **Tela de despesas**
