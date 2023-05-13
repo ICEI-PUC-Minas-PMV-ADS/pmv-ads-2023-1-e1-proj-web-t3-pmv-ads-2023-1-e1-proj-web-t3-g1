@@ -8,21 +8,21 @@ Assim, a aplicação vem como resposta buscando solucionar de maneira simples e 
 
 ❖	Acessibilidade
 
-➢	Dúvidas e dificuldades sobre como fazer uma boa gestão de finanças pessoais
+	➢	Dúvidas e dificuldades sobre como fazer uma boa gestão de finanças pessoais
 
 ❖	Déficit financeiro
 
-➢	Despesas mensais superiores aos rendimentos;
+	➢	Despesas mensais superiores aos rendimentos;
 
 ❖	Desordem econômica
 
-➢	Dificuldades na identificação do que são despesas necessárias, desnecessárias e temporárias;
+	➢	Dificuldades na identificação do que são despesas necessárias, desnecessárias e temporárias;
 
-➢	Dificuldades na identificação e acompanhamento de expensas dinâmicas (alimentação, lazer, transporte, investimentos, etc.);
+	➢	Dificuldades na identificação e acompanhamento de expensas dinâmicas (alimentação, lazer, transporte, investimentos, etc.);
 
 ❖	Estruturação financeira
 
-➢	Dificuldades no planejamento de grandes despesas (viagens, compras, financiamentos, etc.).
+	➢	Dificuldades no planejamento de grandes despesas (viagens, compras, financiamentos, etc.).
 
 ## Objetivos
 A aplicação busca proporcionar uma ferramenta digital acessível, ágil e objetiva aos seus usuários, sendo capaz de simplificar e auxiliar na gestão cotidiana de suas finanças. Além disso, a aplicação tem como objetivo contribuir para a educação e saúde financeira de seus usuários.
