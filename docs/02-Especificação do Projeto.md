@@ -46,8 +46,22 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|`RF-001`| Permitir que o usuário cadastre tarefas | `ALTA` | 
-|`RF-002`| Emitir um relatório de tarefas no mês   | `ALTA` |
+|`RF-001`| Permitir que o usuário registre suas **despesas fixas** (aluguel, streaming, seguro, internet, etc.). | `ALTA` | 
+|`RF-002`| Permitir que o usuário registre suas **despesas esporádicas** (corte de cabelo, jantar em restaurante, passeio no parque de diversões, etc.).  | `ALTA` |
+|`RF-003`| Permitir que o usuário registre suas **despesas com “prazo de validade”** (compras parceladas, financiamentos, etc). | `ALTA` | 
+|`RF-004`| Permitir que o usuário registre uma **meta de gastos** (seja ela semanal, mensal ou anual).   | `ALTA` |
+|`RF-005`| Permitir que o usuário cadastre tarefas | `ALTA` | 
+|`RF-006`| Emitir um relatório de tarefas no mês   | `ALTA` |
+|`RF-007`| Permitir que o usuário cadastre tarefas | `ALTA` | 
+|`RF-008`| Emitir um relatório de tarefas no mês   | `ALTA` |
+|`RF-009`| Permitir que o usuário cadastre tarefas | `ALTA` | 
+|`RF-010`| Emitir um relatório de tarefas no mês   | `MÉDIA` |
+|`RF-011`| Permitir que o usuário cadastre tarefas | `MÉDIA` | 
+|`RF-012`| Emitir um relatório de tarefas no mês   | `MÉDIA` |
+|`RF-013`| Permitir que o usuário cadastre tarefas | `BAIXA` | 
+|`RF-014`| Emitir um relatório de tarefas no mês   | `BAIXA` |
+|`RF-015`| Permitir que o usuário cadastre tarefas | `BAIXA` | 
+|`RF-016`| Emitir um relatório de tarefas no mês   | `BAIXA` |
 
 
 ### Requisitos não Funcionais
