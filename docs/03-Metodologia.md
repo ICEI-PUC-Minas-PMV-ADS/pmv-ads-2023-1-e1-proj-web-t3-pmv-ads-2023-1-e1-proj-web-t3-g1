@@ -23,7 +23,7 @@ As plataformas utilizadas para o desenvolvimento de artefatos da aplicação for
 Para a gestão do código fonte será utilizado o modelo de processo baseado no Git Flow, como mostrado na figura a seguir:
 
 ![git_Flow](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/122227953/2279f321-06f3-47ce-879c-75d74170cbc1)
-*Figura 01: Fluxo de controle do código fonte: GitFlow.*
+<sub>*Figura 01: Fluxo de controle do código fonte: GitFlow.*</sub>
 
 O projeto segue a seguinte convenção para o nome de branches:
 
@@ -39,11 +39,12 @@ A equipe de desenvolvimento deste projeto está organizada conforme as funções
 - Scrum Master: *Laís Barbosa*
 - Product Owner: *Henrique Gomes*
 - Equipe de Desenvolvimento: 
-   *Arthur Santos;*
-   *César Augusto;*
-   *Lucas Emanuel;*
-   *Lucas Oliveira.*
-- Equipe de Design: *Carlos Eduardo*
+  _*Arthur Santos;*
+  _*César Augusto;*
+  _*Lucas Emanuel;*
+  _*Lucas Oliveira.*
+- Equipe de Design: 
+   _*Carlos Eduardo*
 
 
 ### Processo
