@@ -90,6 +90,8 @@ Requisitos atendidos:
 Tela que permite ao usuário acompanhar, gerenciar e cadastrar seus investimentos. Além disso, fornece ao usuário um menu de navegação, e na parte inferior, acesso às redes sociais da aplicação.
 Ao cadastrar um novo investimento, um pop-up surge na tela confirmando a ação.
 
+<sub> Além de sua função, a tela oferece algumas alternativas ao usuário, visando melhorar sua experiência com a aplicação, como a função *hover* aplicada sobre os itens da seção "Carteira" , também sobre os links de navegação no header e ainda sobre os botões *Finalizar* e *Redefinir* localizados na seção "Cadastrar novo aporte".
+
 ![Tela de Investimentos](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/122227953/9a2c29aa-1b3b-431d-a9bd-9f8b8201c2f8)
 <sub>*Figura - Tela de investimentos* </sub>
 
