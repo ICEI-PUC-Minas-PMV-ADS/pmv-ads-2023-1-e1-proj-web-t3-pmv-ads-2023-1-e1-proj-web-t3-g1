@@ -2,7 +2,7 @@
 
 A equipe realizou pesquisas e entrevistas com potenciais usuários da aplicação visando traçar quais problemas o software resolverá. A partir disso, os levantamentos foram compilados na forma de _Personas_ e _Histórias de Usuários_, conforme apresentado a seguir.
 
-Personas
+## Personas
 
 |BEATRIZ CORDEIRO  |     |
 | ----------------- | --- |
