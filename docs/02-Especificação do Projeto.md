@@ -11,6 +11,13 @@ Personas
 | --- |	Hobbies: Leitura; Filmes e Séries; Língua Estrangeira; Viagens |
 
 
+| LEONARDO MACEDO  | --- |
+| ----------------- | --- |
+| Idade: 21 anos    |	Principais aplicativos: Streaming; Whatsapp; Instagram; Telegram; YouTube; Twitter; Discord. |
+| Ocupação: `Assistente de Suporte` `Estudante de SI` | Motivações: Amigos; Tecnologia. | Objetivos: Trabalhar como gestor em tecnologia (gestão de pessoal). |
+| --- |	Hobbies: Games online; Filmes e Séries. |
+
+
 ## Personas
 
 Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
