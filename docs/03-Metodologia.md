@@ -36,15 +36,27 @@ O projeto segue a seguinte convenção para o nome de branches:
 ### Divisão de Papéis
 
 A equipe de desenvolvimento deste projeto está organizada conforme as funções a seguir:
-- Scrum Master: *Laís Barbosa*
-- Product Owner: *Henrique Gomes*
-- Equipe de Desenvolvimento: 
-  _*Arthur Santos;*
-  _*César Augusto;*
-  _*Lucas Emanuel;*
-  _*Lucas Oliveira.*
+- Scrum Master: 
+
+- *Laís Barbosa*
+
+- Product Owner: 
+
+*Henrique Gomes*
+
+- Equipe de Desenvolvimento:
+ 
+  *Arthur Santos;*
+  
+  *César Augusto;*
+  
+  *Lucas Emanuel;*
+  
+  *Lucas Oliveira.*
+  
 - Equipe de Design: 
-   _*Carlos Eduardo*
+
+- *Carlos Eduardo*
 
 
 ### Processo
