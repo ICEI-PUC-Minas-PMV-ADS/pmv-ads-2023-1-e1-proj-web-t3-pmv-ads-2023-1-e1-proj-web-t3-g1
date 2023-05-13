@@ -8,10 +8,10 @@ PROJETO:  DESENVOLVIMENTO E APLICAÇÃO DE WEB FRONT-END - TURMA 03
 Em desenvolvimento uma aplicação Web  facilitadora de  gestão financeira pessoal afim de reduzir as probaabilidades de geração de dívidas e maximizar  as possibilidades de otimização de fortuna.
 ## Integrantes
 * ARTHUR OLIVEIRA
-*  CARLOS EDUARDO DOS SANTOS LIMA
-*  CÉSAR  AUGUSTO CASTRO  ALVES MARTINS 
+* CARLOS EDUARDO DOS SANTOS LIMA
+* CÉSAR  AUGUSTO CASTRO  ALVES MARTINS 
 * LAÍS BARBOSA DE OLIVEIRA
-*  LUCAS EMANUEL PEREIRA  RODRIGUES
+* LUCAS EMANUEL PEREIRA  RODRIGUES
 * LUCAS OLIVEIRA SOARES
 
 
