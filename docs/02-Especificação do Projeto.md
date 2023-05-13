@@ -4,14 +4,14 @@ A equipe realizou pesquisas e entrevistas com potenciais usuários da aplicaçã
 
 Personas
 
-| :BEATRIZ CORDEIRO  |     |
+|BEATRIZ CORDEIRO  |     |
 | ----------------- | --- |
 | Idade: 49 anos    |	Principais aplicativos: Banking; Streaming; Whatsapp; Instagram; TikTok; YouTube; Twitter. |
 | Ocupação: `Analista Financeiro` | Motivações: Família; Busca por conhecimento.. | Objetivos: Seguir evoluindo profissionalmente. |
 | --- |	Hobbies: Leitura; Filmes e Séries; Língua Estrangeira; Viagens |
 
 
-| :LEONARDO MACEDO  |     |
+|LEONARDO MACEDO  |     |
 | ----------------- | --- |
 | Idade: 21 anos    |	Principais aplicativos: Streaming; Whatsapp; Instagram; Telegram; YouTube; Twitter; Discord. |
 | Ocupação: `Suporte` `Estudante de SI` | Motivações: Amigos; Tecnologia. | Objetivos: Trabalhar como gestor em tecnologia (gestão de pessoal). |
