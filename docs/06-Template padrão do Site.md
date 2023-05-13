@@ -16,7 +16,7 @@ O template desenvolvido está disponível no site GitHub e é composto pelos seg
 6. Tela de receitas;
 7. Tela de despesas;
 
-###***Landing Page***
+### ***Landing Page***
 
 INSERIR LANDING PAGE AQUI
 
