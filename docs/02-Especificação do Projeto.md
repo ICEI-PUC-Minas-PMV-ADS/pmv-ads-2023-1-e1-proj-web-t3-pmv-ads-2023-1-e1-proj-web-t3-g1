@@ -7,7 +7,7 @@ Personas
 | BEATRIZ CORDEIRO  | --- |
 | ----------------- | --- |
 | Idade: 49 anos    |	Principais aplicativos: Banking; Streaming; Whatsapp; Instagram; TikTok; YouTube; Twitter. |
-| Ocupação: Analista Financeiro | Motivações: Família; Busca por conhecimento.. | Objetivos: Seguir evoluindo profissionalmente. |
+| Ocupação: `Analista Financeiro` | Motivações: Família; Busca por conhecimento.. | Objetivos: Seguir evoluindo profissionalmente. |
 | --- |	Hobbies: Leitura; Filmes e Séries; Língua Estrangeira; Viagens |
 
 
