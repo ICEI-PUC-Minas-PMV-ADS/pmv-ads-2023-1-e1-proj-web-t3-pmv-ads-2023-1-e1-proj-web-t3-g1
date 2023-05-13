@@ -10,6 +10,7 @@ A equipe de desenvolvimento traçou algumas diretrizes contemplando as capacidad
 As plataformas utilizadas para o desenvolvimento de artefatos da aplicação foram Figma, Trello e GitHub. Além disso, para as comunicações e reuniões de equipe, foi selecionada a plataforma Discord.
 
 | Ambiente | Plataforma | Link de acesso |
+| --------- | ---------- | ------------ |
 | Repositório de código fonte | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1 |
 | Design de Interfaces | Figma | https://www.figma.com/file/z37zGLpTajLES3zOdmlMdJ/ControlaFacil-Wireframe?node-id=0%3A1&t=69S8xQR1BVdCDJwZ-1 |
 | Gerenciamento do Projeto | Trello | https://trello.com/b/oDauB2nJ/grupo1ads-controla-f%C3%A1cil |
