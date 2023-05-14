@@ -12,15 +12,17 @@ Nesta seção são apresentadas as telas desenvolvidas para cada uma das funcion
 
 
 ### Landing Page (RF-17)
-Descrição + Foto
+Tela inicial do site, fala sobre o que vai encontrar no site e teria que levar ao login
+![650c81b5-fdc3-408b-9f68-600a1e20a2ae](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/131082433/9f27f32b-8495-43f9-8593-25992e0d6d5f)
+
 
 Requisitos atendidos:
 - RF-17: Permitir que o usuário conheça a plataforma.
 
 **Artefatos da funcionalidade:**
-- (nome do arquivo .html)
-- (nome do arquivo .css)
-- (nome do arquivo .js - se houver)
+- (index3.html)
+- (style.css)
+
 
 ### Tela de Cadastro (RF–09)
 
