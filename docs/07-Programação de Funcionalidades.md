@@ -138,8 +138,10 @@ Requisitos atendidos:
 ### Tela de despesas (RF-02, RF-03, RF-04, RF-10)
 
 A página de despesas permite ao usuário o acompanhamento, controle e cadastro de suas despesas.
+ 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/77800106/58df806d-260e-493c-8faa-628dfcaaf261)
-
+<sub>*Figura - Tela de Despesas* </sub>
+ 
 Requisitos atendidos:
 - RF-02: Permitir que o usuário registre suas despesas esporádicas (corte de cabelo, jantar em restaurante, passeio no parque de diversões, etc.).
 - RF-03: Permitir que o usuário registre suas despesas com “prazo de validade” (compras parceladas, financiamentos, etc).
@@ -151,5 +153,6 @@ Requisitos atendidos:
 - style.css
 
 **Estrutura de dados**
+ 
  ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/77800106/cf2c7724-e408-4e69-84f0-f86526351433)
 
