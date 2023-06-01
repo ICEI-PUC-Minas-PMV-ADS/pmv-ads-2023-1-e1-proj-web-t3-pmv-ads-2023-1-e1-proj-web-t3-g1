@@ -42,5 +42,9 @@ Tela que permite ao usuário fazer cadastro, acompanhamento e gestão de seus in
 <sub>*Figura: Tela de investimentos*</sub>
 
 ###  **Tela de receitas**
+Tela de despesas permite ao usuário o acompanhamento, controle e cadastro de suas despesas.
+ 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/77800106/58df806d-260e-493c-8faa-628dfcaaf261)
+<sub>*Figura - Tela de Despesas* </sub>
 
 ###  **Tela de despesas**
