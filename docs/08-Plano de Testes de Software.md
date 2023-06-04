@@ -9,7 +9,6 @@ Os requisitos para realização dos testes de software são:
 Os testes funcionais a serem realizados na aplicação estão descritos a seguir:
 
 ### Teste 01:
-
 | Caso de Teste | **T-01: Teste de Responsividade**  |
 |---|---|
 | Requisitos Associados | `RNF-01`: A aplicação deve manter o padrão de desempenho — definido pela equipe — em qualquer sistema de acesso: Browser, Smartphone ou Tablet; <br> `RNF-03`:  O sistema deve ser acessível e de fácil usabilidade pelo usuário; <br> `RNF-04`: O sistema deve ser responsivo em qualquer sistema de acesso: Browser, Smartphone ou Tablet. |
@@ -18,7 +17,7 @@ Os testes funcionais a serem realizados na aplicação estão descritos a seguir
 | Critérios de Êxito | `-` A aplicação se adequa ao tamanho de exibição requisitado; <br> `-` A aplicação não oculta informações importantes quando acessada a partir de dispositivos com telas menores. |
 <br>
 
-
+### Teste 02:
 | Caso de Teste | **T-02: Teste de Dark Mode**   |
 |---|---|
 | Requisitos Associados | `RF-13`: O sistema deve permitir que o usuário opte pelo "Dark Mode"; <br> `RNF-01`: A aplicação deve manter o padrão de desempenho — definido pela equipe — em qualquer sistema de acesso: Browser, Smartphone ou Tablet; <br> `RNF-03`:  O sistema deve ser acessível e de fácil usabilidade pelo usuário; <br> `RNF-04`: O sistema deve ser responsivo em qualquer sistema de acesso: Browser, Smartphone ou Tablet. |
@@ -27,7 +26,7 @@ Os testes funcionais a serem realizados na aplicação estão descritos a seguir
 | Critérios de Êxito | `-` A aplicação altera o modo de exibição de Light Mode para Dark Mode e vice-versa. |
 <br>
 
-
+### Teste 03:
 | Caso de Teste | **T-03: Teste de Cadastro de Investimentos**  |
 |---|---|
 | Requisitos Associados | `RF-08`: O sistema deve permitir que o usuário registre seus investimentos. (Títulos de renda fixa, títulos de renda variável, etc.). |
@@ -36,7 +35,7 @@ Os testes funcionais a serem realizados na aplicação estão descritos a seguir
 | Critérios de Êxito | `-` Preenchimento incompleto do formulário exibe mensagem de erro; <br> `-` Preenchimento completo do formulário exibe informações na seção “Carteira”. |
 <br>
 
-
+### Teste 04:
 | Caso de Teste | T-04: Teste de Responsividade   |
 |---|---|
 | Requisitos Associados | `RNF-01`: A aplicação deve manter o padrão de desempenho — definido pela equipe — em qualquer sistema de acesso: Browser, Smartphone ou Tablet; <br> `RNF-03`:  O sistema deve ser acessível e de fácil usabilidade pelo usuário; <br> `RNF-04`: O sistema deve ser responsivo em qualquer sistema de acesso: Browser, Smartphone ou Tablet. |
