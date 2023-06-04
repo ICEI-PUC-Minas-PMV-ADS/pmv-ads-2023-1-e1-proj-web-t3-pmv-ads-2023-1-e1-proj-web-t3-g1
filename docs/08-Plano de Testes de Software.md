@@ -16,6 +16,7 @@ Os testes funcionais a serem realizados na aplicação estão descritos a seguir
 | Critérios de Êxito | `-` A aplicação se adequa ao tamanho de exibição requisitado; <br> `-` A aplicação não oculta informações importantes quando acessada a partir de dispositivos com telas menores. |
 
 
+
 | Caso de Teste | **T-02: Teste de Dark Mode**   |
 |---|---|
 | Requisitos Associados | `RF-13`: O sistema deve permitir que o usuário opte pelo "Dark Mode"; <br> `RNF-01`: A aplicação deve manter o padrão de desempenho — definido pela equipe — em qualquer sistema de acesso: Browser, Smartphone ou Tablet; <br> `RNF-03`:  O sistema deve ser acessível e de fácil usabilidade pelo usuário; <br> `RNF-04`: O sistema deve ser responsivo em qualquer sistema de acesso: Browser, Smartphone ou Tablet. |
@@ -24,12 +25,14 @@ Os testes funcionais a serem realizados na aplicação estão descritos a seguir
 | Critérios de Êxito | `-` A aplicação altera o modo de exibição de Light Mode para Dark Mode e vice-versa. |
 
 
+
 | Caso de Teste | **T-03: Teste de Cadastro de Investimentos**  |
 |---|---|
 | Requisitos Associados | `RNF-01`: A aplicação deve manter o padrão de desempenho — definido pela equipe — em qualquer sistema de acesso: Browser, Smartphone ou Tablet; <br> `RNF-03`:  O sistema deve ser acessível e de fácil usabilidade pelo usuário; <br> `RNF-04`: O sistema deve ser responsivo em qualquer sistema de acesso: Browser, Smartphone ou Tablet. |
 | Objetivo do Teste | Verificar a acessibilidade da aplicação e seu comportamento em dispositivos de diferentes tipos e tamanhos. |
 | Passos | - Acessar a tela de investimentos através de dispositivos com diferentes dimensões de tela; |
 | Critérios de Êxito | - A aplicação se adequa ao tamanho de exibição requisitado; <br> - A aplicação não oculta informações importantes quando acessada a partir de dispositivos com telas menores. |
+
 
 
 | Caso de Teste | T-04: Teste de Responsividade   |
