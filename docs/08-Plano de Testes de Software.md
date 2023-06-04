@@ -11,8 +11,9 @@ Os testes funcionais a serem realizados na aplicação estão descritos a seguir
 | Caso de Teste | T-01: Teste de Responsividade   |
 |---|---|
 | Requisitos Associados | `RNF-01`: A aplicação deve manter o padrão de desempenho — definido pela equipe — em qualquer sistema de acesso: Browser, Smartphone ou Tablet; <br> `RNF-03`:  O sistema deve ser acessível e de fácil usabilidade pelo usuário; <br> `RNF-04`: O sistema deve ser responsivo em qualquer sistema de acesso: Browser, Smartphone ou Tablet. |
-|   |   |
-|   |   |
+| Objetivo do Teste | Verificar a acessibilidade da aplicação e seu comportamento em dispositivos de diferentes tipos e tamanhos. |
+| Passos | - Acessar a tela de investimentos através de dispositivos com diferentes dimensões de tela; |
+| Critérios de Êxito | - A aplicação se adequa ao tamanho de exibição requisitado; <br> - A aplicação não oculta informações importantes quando acessada a partir de dispositivos com telas menores. |
  
 ## Ferramentas de Testes (Opcional)
 
