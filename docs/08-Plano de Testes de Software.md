@@ -10,7 +10,7 @@ Os testes funcionais a serem realizados na aplicação estão descritos a seguir
 
 | Caso de Teste | T-01: Teste de Responsividade   |
 |---|---|
-|   |   |
+| Requisitos Associados | `RNF-01`:   |
 |   |   |
 |   |   |
  
