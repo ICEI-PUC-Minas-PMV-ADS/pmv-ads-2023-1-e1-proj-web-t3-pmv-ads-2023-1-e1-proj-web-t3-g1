@@ -28,10 +28,11 @@ Os testes funcionais a serem realizados na aplicação estão descritos a seguir
 
 | Caso de Teste | **T-03: Teste de Cadastro de Investimentos**  |
 |---|---|
-| Requisitos Associados | `RNF-01`: A aplicação deve manter o padrão de desempenho — definido pela equipe — em qualquer sistema de acesso: Browser, Smartphone ou Tablet; <br> `RNF-03`:  O sistema deve ser acessível e de fácil usabilidade pelo usuário; <br> `RNF-04`: O sistema deve ser responsivo em qualquer sistema de acesso: Browser, Smartphone ou Tablet. |
-| Objetivo do Teste | Verificar a acessibilidade da aplicação e seu comportamento em dispositivos de diferentes tipos e tamanhos. |
-| Passos | - Acessar a tela de investimentos através de dispositivos com diferentes dimensões de tela; |
-| Critérios de Êxito | - A aplicação se adequa ao tamanho de exibição requisitado; <br> - A aplicação não oculta informações importantes quando acessada a partir de dispositivos com telas menores. |
+| Requisitos Associados | `RF-08`: O sistema deve permitir que o usuário registre seus investimentos. (Títulos de renda fixa, títulos de renda variável, etc.). |
+| Objetivo do Teste | Verificar preenchimento dos campos obrigatórios, e verificar se a aplicação insere novas informações à seção “Carteira”. |
+| Passos | `1.` Acessar a tela de investimentos através de dispositivos com diferentes dimensões de tela; <br> `2.` Preencher os dados na seção “Cadastrar novo aporte”; <br> `3.` Verificar se os dados cadastrados aparecem na seção "Carteira". |
+| Critérios de Êxito | `-` Preenchimento incompleto do formulário exibe mensagem de erro; <br>
+ `-` Preenchimento completo do formulário exibe informações na seção “Carteira”. |
 <br>
 
 
