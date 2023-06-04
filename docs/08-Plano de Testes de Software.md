@@ -12,15 +12,15 @@ Os testes funcionais a serem realizados na aplicação estão descritos a seguir
 |---|---|
 | Requisitos Associados | `RNF-01`: A aplicação deve manter o padrão de desempenho — definido pela equipe — em qualquer sistema de acesso: Browser, Smartphone ou Tablet; <br> `RNF-03`:  O sistema deve ser acessível e de fácil usabilidade pelo usuário; <br> `RNF-04`: O sistema deve ser responsivo em qualquer sistema de acesso: Browser, Smartphone ou Tablet. |
 | Objetivo do Teste | Verificar a acessibilidade da aplicação e seu comportamento em dispositivos de diferentes tipos e tamanhos. |
-| Passos | - Acessar a tela de investimentos através de dispositivos com diferentes dimensões de tela; |
-| Critérios de Êxito | `1.` A aplicação se adequa ao tamanho de exibição requisitado; <br> `2.` A aplicação não oculta informações importantes quando acessada a partir de dispositivos com telas menores. |
+| Passos | `1.` Acessar a tela de investimentos através de dispositivos com diferentes dimensões de tela; |
+| Critérios de Êxito | `-` A aplicação se adequa ao tamanho de exibição requisitado; <br> `-` A aplicação não oculta informações importantes quando acessada a partir de dispositivos com telas menores. |
 
 | Caso de Teste | T-02: Teste de Dark Mode   |
 |---|---|
 | Requisitos Associados | `RF-13`: O sistema deve permitir que o usuário opte pelo "Dark Mode"; <br> `RNF-01`: A aplicação deve manter o padrão de desempenho — definido pela equipe — em qualquer sistema de acesso: Browser, Smartphone ou Tablet; <br> `RNF-03`:  O sistema deve ser acessível e de fácil usabilidade pelo usuário; <br> `RNF-04`: O sistema deve ser responsivo em qualquer sistema de acesso: Browser, Smartphone ou Tablet. |
 | Objetivo do Teste | Testar o funcionamento do modo escuro (Dark Mode) da aplicação. |
-| Passos | - Acessar a tela de investimentos através de dispositivos com diferentes dimensões de tela; <br> - Ativar e desativar a função Dark Mode através do ícone de Lua — ou Sol, caso já esteja ativada —, presente no header da página; |
-| Critérios de Êxito | - A aplicação se adequa ao tamanho de exibição requisitado; <br> - A aplicação não oculta informações importantes quando acessada a partir de dispositivos com telas menores. |
+| Passos | `1.` Acessar a tela de investimentos através de dispositivos com diferentes dimensões de tela; <br> `2.` Ativar e desativar a função Dark Mode através do ícone de Lua — ou Sol, caso já esteja ativada —, presente no header da página; |
+| Critérios de Êxito | `-` A aplicação se adequa ao tamanho de exibição requisitado; <br> `-` A aplicação não oculta informações importantes quando acessada a partir de dispositivos com telas menores. |
 
 | Caso de Teste | T-03: Teste de Responsividade   |
 |---|---|
