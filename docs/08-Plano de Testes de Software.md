@@ -8,6 +8,8 @@ Os requisitos para realização dos testes de software são:
 
 Os testes funcionais a serem realizados na aplicação estão descritos a seguir:
 
+## Teste 01:
+
 | Caso de Teste | **T-01: Teste de Responsividade**  |
 |---|---|
 | Requisitos Associados | `RNF-01`: A aplicação deve manter o padrão de desempenho — definido pela equipe — em qualquer sistema de acesso: Browser, Smartphone ou Tablet; <br> `RNF-03`:  O sistema deve ser acessível e de fácil usabilidade pelo usuário; <br> `RNF-04`: O sistema deve ser responsivo em qualquer sistema de acesso: Browser, Smartphone ou Tablet. |
