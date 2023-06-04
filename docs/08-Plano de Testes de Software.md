@@ -31,8 +31,7 @@ Os testes funcionais a serem realizados na aplicação estão descritos a seguir
 | Requisitos Associados | `RF-08`: O sistema deve permitir que o usuário registre seus investimentos. (Títulos de renda fixa, títulos de renda variável, etc.). |
 | Objetivo do Teste | Verificar preenchimento dos campos obrigatórios, e verificar se a aplicação insere novas informações à seção “Carteira”. |
 | Passos | `1.` Acessar a tela de investimentos através de dispositivos com diferentes dimensões de tela; <br> `2.` Preencher os dados na seção “Cadastrar novo aporte”; <br> `3.` Verificar se os dados cadastrados aparecem na seção "Carteira". |
-| Critérios de Êxito | `-` Preenchimento incompleto do formulário exibe mensagem de erro; <br>
- `-` Preenchimento completo do formulário exibe informações na seção “Carteira”. |
+| Critérios de Êxito | `-` Preenchimento incompleto do formulário exibe mensagem de erro; <br> `-` Preenchimento completo do formulário exibe informações na seção “Carteira”. |
 <br>
 
 
