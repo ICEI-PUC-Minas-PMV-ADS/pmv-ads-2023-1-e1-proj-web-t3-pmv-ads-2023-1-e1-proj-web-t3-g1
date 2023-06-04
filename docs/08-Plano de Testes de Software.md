@@ -8,6 +8,8 @@ Os requisitos para realização dos testes de software são:
 
 Os testes funcionais a serem realizados na aplicação estão descritos a seguir:
 
+## Tela de Investimentos
+
 ### Teste 01:
 | Caso de Teste | **T-01: Teste de Responsividade**  |
 |---|---|
