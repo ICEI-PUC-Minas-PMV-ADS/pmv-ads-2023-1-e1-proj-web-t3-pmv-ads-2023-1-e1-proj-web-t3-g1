@@ -1,8 +1,14 @@
 # Registro de Testes de Software
 
-<span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>, <a href="8-Plano de Testes de Software.md"> Plano de Testes de Software</a>
+Resultados obtidos nos testes de software:
 
-Relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado em um plano de testes pré-definido.
+**Casos de Testes T-01, T-02, T-03 e T-04)
+
+- T-01: Teste de Responsividade
+
+Acesso PC:
+![Light Mode - PC](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/122227953/00b4756b-f65f-4fd7-bf61-85741593a2ae)
+
 
 ## Avaliação
 
