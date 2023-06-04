@@ -8,9 +8,9 @@ Os requisitos para realização dos testes de software são:
 
 Os testes funcionais a serem realizados na aplicação estão descritos a seguir:
 
-| Ambiente | PlataformaLink de acesso |
-| Plataforma | ---------------------- |
-| Ambiente | PlataformaLink de acesso |
+| Ambiente | PlataformaLink de acesso | --- |
+| Plataforma | ---------------------- | --- |
+| Ambiente | PlataformaLink de acesso | --- |
  
 ## Ferramentas de Testes (Opcional)
 
