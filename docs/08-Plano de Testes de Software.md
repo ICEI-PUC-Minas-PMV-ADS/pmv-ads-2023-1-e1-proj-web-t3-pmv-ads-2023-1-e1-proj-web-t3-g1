@@ -14,7 +14,7 @@ Os testes funcionais a serem realizados na aplicação estão descritos a seguir
 | Objetivo do Teste | Verificar a acessibilidade da aplicação e seu comportamento em dispositivos de diferentes tipos e tamanhos. |
 | Passos | `1.` Acessar a tela de investimentos através de dispositivos com diferentes dimensões de tela; |
 | Critérios de Êxito | `-` A aplicação se adequa ao tamanho de exibição requisitado; <br> `-` A aplicação não oculta informações importantes quando acessada a partir de dispositivos com telas menores. |
-
+<br>
 
 
 | Caso de Teste | **T-02: Teste de Dark Mode**   |
@@ -23,7 +23,7 @@ Os testes funcionais a serem realizados na aplicação estão descritos a seguir
 | Objetivo do Teste | Testar o funcionamento do modo escuro (Dark Mode) da aplicação. |
 | Passos | `1.` Acessar a tela de investimentos através de dispositivos com diferentes dimensões de tela; <br> `2.` Ativar e desativar a função Dark Mode através do ícone de Lua — ou Sol, caso já esteja ativada —, presente no header da página; |
 | Critérios de Êxito | `-` A aplicação altera o modo de exibição de Light Mode para Dark Mode e vice-versa. |
-
+<br>
 
 
 | Caso de Teste | **T-03: Teste de Cadastro de Investimentos**  |
@@ -32,7 +32,7 @@ Os testes funcionais a serem realizados na aplicação estão descritos a seguir
 | Objetivo do Teste | Verificar a acessibilidade da aplicação e seu comportamento em dispositivos de diferentes tipos e tamanhos. |
 | Passos | - Acessar a tela de investimentos através de dispositivos com diferentes dimensões de tela; |
 | Critérios de Êxito | - A aplicação se adequa ao tamanho de exibição requisitado; <br> - A aplicação não oculta informações importantes quando acessada a partir de dispositivos com telas menores. |
-
+<br>
 
 
 | Caso de Teste | T-04: Teste de Responsividade   |
