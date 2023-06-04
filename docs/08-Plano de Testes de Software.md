@@ -10,6 +10,7 @@ Os testes funcionais a serem realizados na aplicação estão descritos a seguir
 
 | Ambiente | Plataforma | Link de acesso |
 | --------- | ---------- | ------------ |
+| Ambiente | Plataforma | Link de acesso |
  
 ## Ferramentas de Testes (Opcional)
 
