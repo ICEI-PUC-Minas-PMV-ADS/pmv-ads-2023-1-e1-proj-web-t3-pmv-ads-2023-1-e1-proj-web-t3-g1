@@ -2,7 +2,7 @@
 
 Resultados obtidos nos testes de software:
 
-**Casos de Testes T-01, T-02, T-03 e T-04)
+**Casos de Testes T-01, T-02, T-03 e T-04)**
 
 - T-01: Teste de Responsividade
 
