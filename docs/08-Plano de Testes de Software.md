@@ -42,15 +42,3 @@ Os testes funcionais a serem realizados na aplicação estão descritos a seguir
 | Objetivo do Teste | Verificar a navegabilidade da aplicação e o devido redirecionamento dos links de navegação. Além disso, realizar o teste de navegação dos links incluídos no “Menu Hambúrguer” disponível nas telas de dispositivos mobile. |
 | Passos | `1.` Acessar a tela de investimentos através de dispositivos com diferentes dimensões de tela; `2.` Acessar links disponíveis no menu de navegação presente no header da página; |
 | Critérios de Êxito | `-` O menu de navegação redireciona o usuário às páginas solicitadas; <br> `-` A aplicação exibe o menu de navegação oculto em dispositivos móveis; <br> `-` Os links de navegação do menu oculto redirecionam o usuário conforme solicitação. |
- 
-## Ferramentas de Testes (Opcional)
-
-Comente sobre as ferramentas de testes utilizadas.
- 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
