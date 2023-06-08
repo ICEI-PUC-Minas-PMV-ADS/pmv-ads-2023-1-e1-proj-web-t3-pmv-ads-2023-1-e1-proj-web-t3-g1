@@ -72,3 +72,13 @@ Redirecionamento: <br>
 
 
 - A **Tela de investimentos** da aplicação demonstrou bons índices de aproveitamento nos testes. Demonstrou facilidade de uso e dinamicidade em seus modos alternativos de visualização (Dark Mode e Light Mode), além de se comportar bem em diferentes tipos de dispositivos com variados tamanhos de tela, conservando suas funções e facilidade de navegação. Entretanto, apresentou alguns bugs quanto à integração de novas informações, tendo em vista de que se trata de uma aplicação em fase incipiente, desenvolvida apenas com tecnologias Front-End.
+
+
+## **Tela de Login**
+
+***Casos de Testes T-01, T-02, T-03 e T-04***
+
+### **T-01: Teste de Responsividade**
+
+- Acesso PC: <br>
+![telaloginpc]< "https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/127629619/00df5818-7bf2-4a1c-99f4-787fd27eb15c" whidth=700>
