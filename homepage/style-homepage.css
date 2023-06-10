@@ -1,24 +1,20 @@
 ::after,
-::before
-{
+::before {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
 
-body
-{
-   background: linear-gradient(-120deg, #c4c1c7, #11031f); 
+body {
+    background: linear-gradient(-120deg, #c4c1c7, #11031f);
 }
 
-body, 
-textarea
-{
+body,
+textarea {
     font-family: sans-serif;
 }
 
-main
-{
+main {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -26,8 +22,7 @@ main
     height: 87vh;
 }
 
-.div_box
-{
+.div_box {
     margin-left: 200px;
     display: flex;
     flex-direction: column;
@@ -37,16 +32,14 @@ main
     text-align: center;
 }
 
-.div_box .title
-{
+.div_box .title {
     padding: 24px 28px;
     font-size: 24px;
     border-bottom: thin solid #e9e9e9;
     color: #3d3d3d;
 }
 
-.div_box label
-{
+.div_box label {
     padding-left: 4px;
     padding-bottom: 6px;
     padding-top: 6px;
@@ -54,15 +47,15 @@ main
     color: #5f5f5f;
 }
 
-.div_box table
-{
-   border-collapse: collapse;
-   width: 90%;
-   color: #5f5f5f;
-   margin: auto;
+.div_box table {
+    border-collapse: collapse;
+    width: 90%;
+    color: #5f5f5f;
+    margin: auto;
 }
 
-.div_box th, td {
+.div_box th,
+td {
     padding: 8px;
     text-align: left;
     border-bottom: 1px solid #e9e9e9;
@@ -77,8 +70,7 @@ main
     font-size: 16px;
 }
 
-.form_box
-{
+.form_box {
     margin-left: 100px;
     display: flex;
     flex-direction: column;
@@ -88,16 +80,14 @@ main
     text-align: center;
 }
 
-.form_box .title
-{
+.form_box .title {
     padding: 24px 28px;
     font-size: 24px;
     border-bottom: thin solid #e9e9e9;
     color: #3d3d3d;
 }
 
-.form_box select
-{
+.form_box select {
     width: 100%;
     height: 35px;
     border-radius: 5px;
@@ -108,8 +98,7 @@ main
     margin-bottom: 16px;
 }
 
-.form_box form
-{
+.form_box form {
     display: flex;
     align-items: start;
     flex-wrap: wrap;
@@ -120,8 +109,7 @@ main
 }
 
 .form_box input,
-.form_box textarea
-{
+.form_box textarea {
     width: 100%;
     height: 35px;
     border-radius: 5px;
@@ -132,15 +120,13 @@ main
     margin-bottom: 16px;
 }
 
-.form_box textarea
-{
+.form_box textarea {
     width: 100%;
     height: 100%;
     padding: 16px;
 }
 
-.form_box label
-{
+.form_box label {
     padding-left: 4px;
     padding-bottom: 6px;
     padding-top: 6px;
@@ -148,8 +134,7 @@ main
     color: #5f5f5f;
 }
 
-.form_box button
-{
+.form_box button {
     display: block;
     border: none;
     outline: none;
@@ -164,21 +149,18 @@ main
     margin-top: 16px;
 }
 
-.form_box button:hover
-{
+.form_box button:hover {
     background-color: #561296;
 }
 
-/* header */
-header
-{
+
+header {
     background-color: #190b26bd;
     padding: 2px;
     margin: -8px;
 }
 
-#logo
-{
+#logo {
     width: 165px;
     height: 30px;
     margin-top: 5px;
@@ -186,18 +168,16 @@ header
     margin-right: 16px
 }
 
-.menu-links{
+.menu-links {
     margin-top: 20px;
 }
 
-#menu-h
-{
+#menu-h {
     justify-content: space-between;
     display: flex;
 }
 
-#menu-h a:hover
-{
+#menu-h a:hover {
     background-color: #dfdfdf47;
     /* border-radius: 5px; */
 }
@@ -210,10 +190,49 @@ header
     position: static;
 }
 
-/* footer */
+
 footer {
     text-align: end;
     background-color: #190b2621;
     color: #b9b9b9;
     margin: -8px;
-  }
+}
+
+
+@media screen and (max-width: 768px) {
+
+
+    .div_box {
+        padding: 0 20px;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 20px;
+
+    }
+
+    .div_box .title {
+        margin-top: 20px;
+
+    }
+
+
+    .div_box,
+    .form_box {
+        width: 100%;
+        margin: 10px auto;
+    }
+
+    .form_box label,
+    .div_box label {
+        font-size: 14px;
+    }
+
+    .div_box table {
+        font-size: 14px;
+    }
+
+    .div_box th,
+    .div_box td {
+        padding: 8px;
+    }
+}
