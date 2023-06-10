@@ -132,3 +132,51 @@ Redirecionamento: <br>
 - A **Tela de LOGIN ** da aplicação demonstrou bons índices de aproveitamento nos testes. Além de se comportar bem em diferentes tipos de dispositivos com variados tamanhos de tela, conservando suas funções e facilidade de navegação.
 Demonstra confiabilidade apresentando opçoes de cadastro e segurança de senha.Tendo em vista de que se trata de uma aplicação em fase incipiente, desenvolvida apenas com tecnologias Front-End, apresentou ineficiencia no Teste-04 relacionado a notificação para email de usuário.
 
+## **Tela Inicial**
+
+***Casos de Testes T-01, T-02 e T-03***
+
+### **T-01: Teste de Responsividade**
+
+- Acesso PC: <br>
+<p align="start">
+
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/131923836/b129dd85-929b-406d-89d9-165a0dc659ec" width=400>
+
+</p>
+<br>
+
+
+- Acesso dispositivo móvel: <br>
+
+<p align="start">
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/131923836/878b7c04-38de-441f-88f3-4f4595a820ec" width=400>
+
+</p> <br>
+
+
+### **T-02: Teste de Cadastro de Receitas**
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/131923836/aae3c304-a0be-4142-9971-34b2e762ade6" width=400>
+
+</p><br>
+- Mensagem de Erro: <br>
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/131923836/e58f25e4-810d-495a-8fab-c5f7b1e22a9c" width=400>
+
+
+### **T-03: Teste de Navegação**
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/131923836/d3e29e9c-5d6c-4f7f-9e0e-07c9ecec114f" width=400>
+
+> <p align="start">
+
+
+Redirecionamento: <br>
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/131923836/9f91a147-dfcb-4f0d-a1be-931da0ecd0d8" width=400>
+
+</p>
+
+
+## Avaliação
+**Testes da Tela de Investimentos: T-01, T-02 e T-03** <br>
+
+- A **Tela Inicial** obteve resultados promissores nos testes, mostrando um alto nível de aproveitamento.Sendo capaz de se adaptar com sucesso a diferentes dispositivos e tamanhos de tela, mantendo todas as funcionalidades e uma navegação fácil. No entanto, foram identificados alguns problemas de integração de novas informações, considerando que se trata de uma aplicação inicial desenvolvida apenas com tecnologias de Front-End.
+
