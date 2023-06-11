@@ -1,0 +1,162 @@
+
+
+
+*{
+font-family: 'INTER', Arial, Helvetica, sans-serif;
+margin: 0%;
+padding: 0%;
+box-sizing: border-box;
+letter-spacing: 1px;
+}
+main {
+    height: 7vh;
+}
+footer{
+width: 100%;
+color: rgb(255, 255, 255);
+
+}
+#footer_content {
+background-color: #141034;
+display: grid;
+grid-template-columns: repeat(4,1fr);
+padding: 3rem 3.5rem;
+clear: both;
+
+
+}
+
+#footer_contacts h1 {
+margin-bottom: 0,75rem;
+}
+
+#footer_social_media {
+display: flex;
+gap: 2rem;
+margin-top: 1.5rem;
+}
+
+#footer_social_media .footer-lick {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 2.5rem;
+    width: 2.5rem;
+    color: rgb(255, 255, 255);
+    border-radius: 50%;
+    transition: all 0,4s;
+}
+#footer_social_media .footer-lick i {
+    font-size: 1,25rem;
+    
+}
+.footer-list{
+display: flex;
+flex-direction: column;
+gap: 0.75rem;
+list-style: none;
+}
+.footer-list .footer-link {
+    color: rgb(162, 159, 155);
+    transition: all 0,4s;
+}
+.footer-list .footer-link:hover{
+    color: blueviolet;
+}#footer_subscribe {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5
+}
+
+#footer_subscribe p {
+color: rgb(162, 159, 155);;
+}
+#imput_grup input {
+    all: unset;
+    padding: 0.75rem;
+    width: 100%;
+}
+#imput_grup input button{
+border: none;
+color: blueviolet;
+padding: 0px 1,25rem;
+height: 100%;
+border-radius: 0px 4px 4px 0px;
+cursor: pointer;
+transition: all 0,4s;
+}
+#imput_grup button:hover {
+opacity: 0,8;
+}
+#footer_copyright {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(6, 6, 6);
+    font-size: 0.9rem;
+    padding: 1.5rem;
+    font-weight: 100%;
+}
+@media  (max-width:768px) {
+    #footer_contet {
+        grid-template-columns: repeat(2,1fr);
+        gap: 2rem;
+    }
+    
+}
+@media  (max-width:426px) {
+    #footer_contet {
+        grid-template-columns: repeat(1,1fr);
+        padding: 3rem 2rem;
+    }
+    
+body {
+   font-size: larger;
+   display: flex;
+        justify-content: center;
+        align-items: center;
+}}
+   
+
+#menu{
+    height: 850px;
+    width: 450px;
+    background-color:darkgray;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+#principal{
+    height: 850px;
+    width: 1000px;
+    background-color:darkgray;
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+    
+}
+#lado{
+    height: 850px;
+    width: 450px;
+    background-color:darkgray;
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+style {
+*{
+    margin: 0%;
+    padding: 0%;
+}
+header{
+    background: #141034;
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 12vh;
+}}
+
+
+
+
+
