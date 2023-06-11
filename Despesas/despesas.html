@@ -7,6 +7,7 @@
     <link rel="shortcut icon" href="/img/logo_grafico.ico" type="image/x-icon">
     <title>Cadastro de despesas</title>
     <link rel="stylesheet" href="style.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
 </head>
 <body>
 
@@ -16,12 +17,11 @@
             <nav id="menu-h">
                 <img id="logo" src="/img/logo.ico" alt="JobFinder">
         
-                <a href="http://127.0.0.1:5500/index.html">Home</a>
-                <a href="#" id="receitas">Receitas</a>
+                <a href="#">Home</a>
+                <a href="http://127.0.0.1:5500/homepage/homepage.html" id="receitas">Receitas</a>
                 <a href="#">Investimentos</a>
-                
+                <i id="mode-icon" class="fa-solid fa-moon" onclick="darkMode()" <i class="fa-solid fa-moon" style="color: #f5f5f5;"></i>
             </nav>
-
         </header>
 
         <main>
@@ -40,18 +40,20 @@
                     </select>
 
                     <label for="ldate">Valor (R$)</label>
-                    <input type="number" name="valor">
+                    <input type="text" size="12" onkeyup="mascaraMoeda(this,event)" name="valor" id="inputId">
 
                     <label for="ldate">Data da despesa</label>
-                    <input type="date" name="data"/>
+                    <input type="date" name="datades" id="datades">
 
                     <label for="ldate">Data final de pagamento</label>
-                    <input type="date" name="data" >
+                    <input type="date" name="datapag">
 
                     <label for="ldate">Descrição</label>
                     <textarea name="message"></textarea>
-
-                    <button type="submit">Cadastrar</button>
+                    
+                    
+                    <input class="button" type="submit" value="Cadastrar" onclick="Cadastro()">
+                    <input class="button2" type="reset">
 
                 </form>
             </div>
@@ -61,13 +63,13 @@
                 <h3 class="title">EXTRATO</h3>
 
                 <table>
-                    <tr>
+                     <tr> 
                         <th>Tipo</th>
                         <th>Início</th>
                         <th>Fim</th>
                         <th>Valor</th>
                         <th>Descrição</th>
-                    </tr>
+                    </tr><!--
                     <tr>
                         <td>Fixa</td>
                         <td>05/05/2023</td>
@@ -109,23 +111,32 @@
                         <td>15/05/2023</td>
                         <td>500,00</td>
                         <td>Despesas diversas</td>
+                    </tr>-->
+                    <tr>
+                        <td id="valorTipo"></td>
+                        <td id="valorDataDes"></td>
+                        <td id="valorDataPag"></td>
+                        <td id="valorDesp"></td>
+                        <td id="valorDesc"></td>
                     </tr>
                 </table>
 
-                <h4>Total: R$1.500,00 </h4>
+                <h4>Total: R$ <span id="valorTotal"></span></h4>
+                <input class="buttonLimpar" type="reset" value="Limpar" onclick="Limpar()">
                 
             </div>
         </main>
 
         <footer>
             <p>
-                PROJETO PUC MINAS<br>
+                PROJETO | PUC MINAS<br>
                 Análise e Desenvolvimento de Sistemas<br>
             </p>    
-            <p>Autor | Lucas Soares</p>
+            <p>Autor: Lucas Soares</p>
         </footer>
             
     </div>
 
 </body>
+<script src="despesas.js"></script>
 </html>
