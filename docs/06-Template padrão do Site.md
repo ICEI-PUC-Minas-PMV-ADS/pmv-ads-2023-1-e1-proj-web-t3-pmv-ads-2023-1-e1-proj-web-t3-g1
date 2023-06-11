@@ -17,6 +17,9 @@ O template desenvolvido está disponível no site GitHub e é composto pelos seg
 7. Tela de despesas;
 
 ### **Landing Page**
+Tela inicial que fala sobre o site
+![Landing Page](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/131082433/28890918-c355-40bb-9d6c-fa0bec805834)
+
 ###  **Tela de cadastro do usuário**
 Tela de cadastro permite o usuário cadastrar seus dados para acessar o Login.
 
