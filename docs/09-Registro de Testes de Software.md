@@ -180,3 +180,53 @@ Redirecionamento: <br>
 
 - A **Tela Inicial** obteve resultados promissores nos testes, mostrando um alto nível de aproveitamento.Sendo capaz de se adaptar com sucesso a diferentes dispositivos e tamanhos de tela, mantendo todas as funcionalidades e uma navegação fácil. No entanto, foram identificados alguns problemas de integração de novas informações, considerando que se trata de uma aplicação inicial desenvolvida apenas com tecnologias de Front-End.
 
+
+## **Tela de Despesas**
+
+***Casos de Testes T-01, T-02 e T-03***
+
+### **T-01: Teste de Navegabilidade**
+<p align="start">
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/77800106/ffc7d137-e4fa-43b4-8424-680ca95a53ab" width=700>
+</p> <br>
+
+<p align="start">
+
+Redirecionamento (tela cadastro de receitas): <br>
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/77800106/dc7df744-7283-4b44-875e-7bd00770446c" width=700>
+
+</p> <br>
+
+
+### **T-02: Teste de Cadastro de Despesas**
+<p align="start">
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/77800106/e86df761-2f4e-4128-b757-04cf9b82b4ae" width=700>
+
+</p><br>
+- Mensagem de Erro: <br>
+<p align="start">
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/77800106/881088ef-83dd-42ac-8a27-a1d32569ac5e" width=700>
+</p> <br>
+
+- Limpeza do extrato: <br>
+<p align="start">
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/77800106/177c5a24-a2f5-4c3c-98d2-e435bb877c2e" width=350>
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/77800106/7e371b0c-6e04-4a35-9f4e-065b29691a75" width=350>
+</p> <br>
+
+### **T-03: Teste Dark Mode**
+
+<p align="start">
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/77800106/f0a4d0fc-4f9c-4243-8e31-8b9a92591a2c" width=700>
+</p> <br>
+
+<p align="start">
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t3-pmv-ads-2023-1-e1-proj-web-t3-g1/assets/77800106/9d367e2d-881e-40b9-ad37-67737125d4df" width=700>
+</p> <br>
+
+
+## Avaliação
+**Testes da Tela de Despesas: T-01, T-02 e T-03** <br>
+
+- A **Tela de Despesas** obteve resultados promissores nos testes, mostrando um alto nível de aproveitamento. Cadastrando despesas e preenchendo o extrato corretamente. No entanto, foram identificados alguns problemas de integração de novas informações, considerando que se trata de uma aplicação inicial desenvolvida apenas com tecnologias de Front-End.
+
