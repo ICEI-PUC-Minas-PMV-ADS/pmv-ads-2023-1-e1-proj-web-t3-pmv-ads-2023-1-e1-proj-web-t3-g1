@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="/img/logo_grafico.ico" type="image/x-icon">
+    <title>Cadastro de Receitas</title>
+    <link rel="stylesheet" href="style-homepage.css" />
+    <script src="homepage.js"></script>
+</head>
+
+<body>
+    <div class="container">
+
+        <header>
+            <nav id="menu-h">
+                <a href="http://127.0.0.1:5500/homepage.html"><img id="logo" src="imgs/Ativo3.png" alt=""></a>
+                <div class="menu-links">
+                    <a href="#"><strong>Despesas</strong></a>
+                    <a href="#" id="receitas"><strong>Receitas</strong></a>
+                    <a href="InvestPage/investimentos.html"><strong>Investimentos</strong></a>
+                </div>
+            </nav>
+
+        </header>
+
+        <main>
+            <div class="form_box">
+
+                <h3 class="title">CADASTRO DE RECEITAS</h3>
+
+                <form action="" method="get">
+
+                    <label for="ldate">Tipo</label>
+                    <select id="tipo" name="tipo">
+                        <option value="#">-</option>
+                        <option value="Fixa">Fixa</option>
+                        <option value="Variavel">Variável</option>
+                        <option value="Outras">Outras despesas</option>
+                        <option value="Outras">Dividendos</option>
+                    </select>
+
+                    <label for="ldate">Valor (R$)</label>
+                    <input type="number" name="valor">
+
+                    <label for="ldate">Data da Receita</label>
+                    <input type="date" name="data" />
+
+                    <label for="ldate">Data final de pagamento</label>
+                    <input type="date" name="data">
+
+                    <button type="submit">Confirmar</button>
+
+                </form>
+            </div>
+
+            <div class="div_box">
+
+                <h3 class="title">EXTRATO</h3>
+
+                <table>
+                    <tr>
+                        <th>Tipo</th>
+                        <th>Início</th>
+                        <th>Fim</th>
+                        <th>Valor (R$)</th>
+                    </tr>
+                    <tr>
+                        <td>Dividendos</td>
+                        <td>05/01/2023</td>
+                        <td>05/02/2023</td>
+                        <td>800,00</td>
+                    </tr>
+                    <tr>
+                        <td>Salário</td>
+                        <td>09/02/2023</td>
+                        <td>-</td>
+                        <td>200,00</td>
+                    </tr>
+                    <tr>
+                        <td>Outras despesas</td>
+                        <td>10/03/2023</td>
+                        <td>15/03/2023</td>
+                        <td>500,00</td>
+                    </tr>
+                    <tr>
+                        <td>Fixa</td>
+                        <td>05/04/2023</td>
+                        <td>05/05/2023</td>
+                        <td>800,00</td>
+                    </tr>
+                    <tr>
+                        <td>Variável</td>
+                        <td>09/05/2023</td>
+                        <td>-</td>
+                        <td>200,00</td>
+                    </tr>
+                    <tr>
+                        <td>Outras despesas</td>
+                        <td>10/05/2023</td>
+                        <td>15/05/2023</td>
+                        <td>500,00</td>
+                    </tr>
+                </table>
+
+                <h4 id="somatoria"></h4>
+
+            </div>
+        </main>
+
+        <footer>
+            <img id="logo" src="imgs/Ativo3.png" alt="JobFinder">
+        </footer>
+
+    </div>
+
+</body>
+
+</html>
